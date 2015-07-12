@@ -6,7 +6,7 @@ Full dataset of the wiewarm.ch website, containing many millions of temperature 
 
 The data is collected on the website http://www.wiewarm.ch either by manual entry or from sensors. Entries go back to 2001 when the website launched.
 
-The temperature values are in degree celsius, and the file encoding is UTF-8 with "Unix"-style line feeds. The CSV of the current year will be updated daily.
+The temperature values are in degree celsius, and the file encoding is UTF-8 with "Unix"-style line feeds. Date format is YYYY-MM-DD hh:mm:ss. The CSV of the current year will be updated daily.
 
 ## License
 
