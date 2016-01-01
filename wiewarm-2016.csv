@@ -1,0 +1,29 @@
+datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
+2016-01-01 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;4.5
+2016-01-01 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;6
+2016-01-01 00:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.3
+2016-01-01 00:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.2
+2016-01-01 00:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;7.5
+2016-01-01 00:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.6
+2016-01-01 00:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.6
+2016-01-01 00:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;5.8
+2016-01-01 00:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.5
+2016-01-01 00:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;7.1
+2016-01-01 00:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.5
+2016-01-01 00:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;4.5
+2016-01-01 00:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;6
+2016-01-01 00:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;6.9
+2016-01-01 01:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;5.7
+2016-01-01 01:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;6.9
+2016-01-01 01:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.3
+2016-01-01 01:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.2
+2016-01-01 01:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;7.5
+2016-01-01 01:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.6
+2016-01-01 01:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.6
+2016-01-01 01:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;5.8
+2016-01-01 01:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.7
+2016-01-01 01:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.5
+2016-01-01 01:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;7.1
+2016-01-01 01:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.5
+2016-01-01 02:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.3
+2016-01-01 02:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.2
