@@ -36471,6 +36471,7 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2016-04-11 01:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.2
 2016-04-11 01:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.5
 2016-04-11 01:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.6
+2016-04-11 01:00:00;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;9.2
 2016-04-11 01:01:47;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.8
 2016-04-11 01:01:47;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.6
 2016-04-11 01:01:47;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.6
@@ -36486,5 +36487,487 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2016-04-11 01:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9
 2016-04-11 01:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.3
 2016-04-11 01:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.7
+2016-04-11 01:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.5
+2016-04-11 02:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10.7
+2016-04-11 02:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.9
+2016-04-11 02:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.1
+2016-04-11 02:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.6
+2016-04-11 02:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.8
+2016-04-11 02:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.8
+2016-04-11 02:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.6
+2016-04-11 02:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.6
+2016-04-11 02:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.6
+2016-04-11 02:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.2
 2016-04-11 02:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.3
 2016-04-11 02:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8.9
+2016-04-11 02:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.8
+2016-04-11 02:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.8
+2016-04-11 02:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.9
+2016-04-11 02:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.7
+2016-04-11 02:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9
+2016-04-11 02:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.3
+2016-04-11 02:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.5
+2016-04-11 02:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.5
+2016-04-11 03:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9
+2016-04-11 03:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.2
+2016-04-11 03:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.9
+2016-04-11 03:01:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.8
+2016-04-11 03:01:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.6
+2016-04-11 03:01:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.6
+2016-04-11 03:01:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.6
+2016-04-11 03:01:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.3
+2016-04-11 03:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10.7
+2016-04-11 03:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.9
+2016-04-11 03:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.3
+2016-04-11 03:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8.9
+2016-04-11 03:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.7
+2016-04-11 03:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.7
+2016-04-11 03:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.2
+2016-04-11 03:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.5
+2016-04-11 03:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.9
+2016-04-11 03:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.3
+2016-04-11 03:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.3
+2016-04-11 03:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.4
+2016-04-11 03:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10
+2016-04-11 03:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;24
+2016-04-11 04:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.2
+2016-04-11 04:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.4
+2016-04-11 04:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.9
+2016-04-11 04:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.9
+2016-04-11 04:01:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.8
+2016-04-11 04:01:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.5
+2016-04-11 04:01:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.6
+2016-04-11 04:01:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.6
+2016-04-11 04:01:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.1
+2016-04-11 04:06:12;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;0
+2016-04-11 04:07:14;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8.8
+2016-04-11 04:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.6
+2016-04-11 04:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
+2016-04-11 04:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.2
+2016-04-11 04:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.8
+2016-04-11 04:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.4
+2016-04-11 04:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.1
+2016-04-11 04:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10.7
+2016-04-11 04:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.6
+2016-04-11 04:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.4
+2016-04-11 05:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;7.9
+2016-04-11 05:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.5
+2016-04-11 05:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.8
+2016-04-11 05:01:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.8
+2016-04-11 05:01:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.5
+2016-04-11 05:01:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.5
+2016-04-11 05:01:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.6
+2016-04-11 05:01:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.1
+2016-04-11 05:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.5
+2016-04-11 05:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8.7
+2016-04-11 05:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.5
+2016-04-11 05:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.4
+2016-04-11 05:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.2
+2016-04-11 05:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6.9
+2016-04-11 05:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.7
+2016-04-11 05:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.4
+2016-04-11 05:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8
+2016-04-11 05:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9
+2016-04-11 05:55:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10.7
+2016-04-11 05:55:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2016-04-11 06:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;7.4
+2016-04-11 06:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.3
+2016-04-11 06:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.7
+2016-04-11 06:00:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.9
+2016-04-11 06:01:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.8
+2016-04-11 06:01:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.5
+2016-04-11 06:01:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.5
+2016-04-11 06:01:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.5
+2016-04-11 06:01:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9
+2016-04-11 06:05:05;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.6
+2016-04-11 06:05:08;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8.7
+2016-04-11 06:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.3
+2016-04-11 06:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.2
+2016-04-11 06:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.2
+2016-04-11 06:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6.7
+2016-04-11 06:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.7
+2016-04-11 06:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.5
+2016-04-11 06:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.4
+2016-04-11 07:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;7
+2016-04-11 07:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3
+2016-04-11 07:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.5
+2016-04-11 07:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.8
+2016-04-11 07:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.5
+2016-04-11 07:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.5
+2016-04-11 07:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.5
+2016-04-11 07:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;8.9
+2016-04-11 07:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10.7
+2016-04-11 07:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2016-04-11 07:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.5
+2016-04-11 07:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8.7
+2016-04-11 07:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.2
+2016-04-11 07:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9
+2016-04-11 07:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.1
+2016-04-11 07:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6.4
+2016-04-11 07:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.7
+2016-04-11 07:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.5
+2016-04-11 07:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.8
+2016-04-11 07:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.3
+2016-04-11 08:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;6.7
+2016-04-11 08:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2.7
+2016-04-11 08:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.4
+2016-04-11 08:01:54;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.7
+2016-04-11 08:01:54;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.5
+2016-04-11 08:01:54;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.5
+2016-04-11 08:01:54;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.5
+2016-04-11 08:01:54;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9
+2016-04-11 08:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10.5
+2016-04-11 08:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2016-04-11 08:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.6
+2016-04-11 08:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8.7
+2016-04-11 08:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.2
+2016-04-11 08:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;8.8
+2016-04-11 08:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.1
+2016-04-11 08:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6.2
+2016-04-11 08:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.7
+2016-04-11 08:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.5
+2016-04-11 08:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.8
+2016-04-11 08:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.3
+2016-04-11 09:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;6.5
+2016-04-11 09:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2.5
+2016-04-11 09:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.7
+2016-04-11 09:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.4
+2016-04-11 09:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.4
+2016-04-11 09:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.4
+2016-04-11 09:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.2
+2016-04-11 09:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10
+2016-04-11 09:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2016-04-11 09:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.6
+2016-04-11 09:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8.7
+2016-04-11 09:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.2
+2016-04-11 09:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;8.8
+2016-04-11 09:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.2
+2016-04-11 09:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6.1
+2016-04-11 09:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.7
+2016-04-11 09:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.2
+2016-04-11 09:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.5
+2016-04-11 09:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.9
+2016-04-11 09:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.3
+2016-04-11 10:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;6.8
+2016-04-11 10:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.2
+2016-04-11 10:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.7
+2016-04-11 10:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.4
+2016-04-11 10:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.4
+2016-04-11 10:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.5
+2016-04-11 10:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.3
+2016-04-11 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;9.5
+2016-04-11 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.6
+2016-04-11 10:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.7
+2016-04-11 10:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8.8
+2016-04-11 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.2
+2016-04-11 10:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;8.8
+2016-04-11 10:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.3
+2016-04-11 10:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6.4
+2016-04-11 10:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2.5
+2016-04-11 10:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.7
+2016-04-11 10:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.6
+2016-04-11 10:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.2
+2016-04-11 10:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9
+2016-04-11 11:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.4
+2016-04-11 11:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;7.5
+2016-04-11 11:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2.9
+2016-04-11 11:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.3
+2016-04-11 11:00:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.5
+2016-04-11 11:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.8
+2016-04-11 11:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.4
+2016-04-11 11:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.5
+2016-04-11 11:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.5
+2016-04-11 11:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.6
+2016-04-11 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;9.5
+2016-04-11 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.8
+2016-04-11 11:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.7
+2016-04-11 11:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8.8
+2016-04-11 11:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.2
+2016-04-11 11:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9
+2016-04-11 11:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.2
+2016-04-11 11:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.8
+2016-04-11 11:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.6
+2016-04-11 11:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.5
+2016-04-11 12:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.5
+2016-04-11 12:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.6
+2016-04-11 12:01:50;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;10.8
+2016-04-11 12:01:50;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.5
+2016-04-11 12:01:50;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.6
+2016-04-11 12:01:50;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.6
+2016-04-11 12:01:50;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.7
+2016-04-11 12:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10
+2016-04-11 12:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.2
+2016-04-11 12:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.6
+2016-04-11 12:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9
+2016-04-11 12:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.4
+2016-04-11 12:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.1
+2016-04-11 12:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.7
+2016-04-11 12:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.3
+2016-04-11 12:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.6
+2016-04-11 12:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.9
+2016-04-11 12:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.7
+2016-04-11 12:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.1
+2016-04-11 12:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.6
+2016-04-11 13:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.7
+2016-04-11 13:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.3
+2016-04-11 13:00:00;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;8.1
+2016-04-11 13:01:49;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;11.1
+2016-04-11 13:01:49;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.8
+2016-04-11 13:01:49;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;12.8
+2016-04-11 13:01:49;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.8
+2016-04-11 13:01:49;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.8
+2016-04-11 13:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10.1
+2016-04-11 13:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.4
+2016-04-11 13:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;9
+2016-04-11 13:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9
+2016-04-11 13:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;8.7
+2016-04-11 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.3
+2016-04-11 13:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.9
+2016-04-11 13:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;9.6
+2016-04-11 13:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9
+2016-04-11 13:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.9
+2016-04-11 13:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.7
+2016-04-11 13:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.6
+2016-04-11 13:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.8
+2016-04-11 14:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;11
+2016-04-11 14:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5
+2016-04-11 14:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.2
+2016-04-11 14:01:48;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;11.8
+2016-04-11 14:01:48;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.8
+2016-04-11 14:01:48;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;12.9
+2016-04-11 14:01:48;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13
+2016-04-11 14:01:48;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.8
+2016-04-11 14:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10.1
+2016-04-11 14:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.4
+2016-04-11 14:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;9.5
+2016-04-11 14:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.1
+2016-04-11 14:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9
+2016-04-11 14:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.4
+2016-04-11 14:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.1
+2016-04-11 14:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;10.7
+2016-04-11 14:10:00;200;Erlebnisbad Seefeld;Seefeld Park Sarnen;Seestrasse 20;Sarnen;6060;OW;409;Erlebnisbecken;Freibad;1
+2016-04-11 14:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.1
+2016-04-11 14:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.7
+2016-04-11 14:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.1
+2016-04-11 14:10:00;141;Strandbad;Provisorisches Seebad Sarnen;Seestrasse;Sarnen;6060;OW;319;Sarnersee;See;1
+2016-04-11 14:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.9
+2016-04-11 15:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12.4
+2016-04-11 15:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.4
+2016-04-11 15:01:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;12.2
+2016-04-11 15:01:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;12.9
+2016-04-11 15:01:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;13.1
+2016-04-11 15:01:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.2
+2016-04-11 15:01:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.9
+2016-04-11 15:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10.6
+2016-04-11 15:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2016-04-11 15:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;10.3
+2016-04-11 15:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.3
+2016-04-11 15:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.3
+2016-04-11 15:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
+2016-04-11 15:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.2
+2016-04-11 15:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;11.6
+2016-04-11 15:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.9
+2016-04-11 15:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.2
+2016-04-11 15:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2016-04-11 15:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.4
+2016-04-11 15:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10
+2016-04-11 16:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.1
+2016-04-11 16:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;13.3
+2016-04-11 16:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;6.6
+2016-04-11 16:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.5
+2016-04-11 16:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;12.4
+2016-04-11 16:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;13.2
+2016-04-11 16:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;13.2
+2016-04-11 16:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.4
+2016-04-11 16:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.7
+2016-04-11 16:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;10.7
+2016-04-11 16:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2016-04-11 16:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;10.6
+2016-04-11 16:05:09;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.4
+2016-04-11 16:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
+2016-04-11 16:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.6
+2016-04-11 16:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;11.8
+2016-04-11 16:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.4
+2016-04-11 16:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2016-04-11 16:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.6
+2016-04-11 16:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10
+2016-04-11 17:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9
+2016-04-11 17:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;13.3
+2016-04-11 17:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.5
+2016-04-11 17:01:48;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;12.4
+2016-04-11 17:01:48;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;13.3
+2016-04-11 17:01:48;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;13.5
+2016-04-11 17:01:48;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.6
+2016-04-11 17:01:48;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;8.7
+2016-04-11 17:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;11.2
+2016-04-11 17:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2016-04-11 17:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;10.5
+2016-04-11 17:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.3
+2016-04-11 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
+2016-04-11 17:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.8
+2016-04-11 17:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;11.7
+2016-04-11 17:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.6
+2016-04-11 17:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.5
+2016-04-11 17:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2016-04-11 17:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.7
+2016-04-11 17:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.2
+2016-04-11 18:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.8
+2016-04-11 18:01:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;12.4
+2016-04-11 18:01:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;13.4
+2016-04-11 18:01:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;13.5
+2016-04-11 18:01:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.6
+2016-04-11 18:01:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;8.5
+2016-04-11 18:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;11.2
+2016-04-11 18:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2016-04-11 18:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;10
+2016-04-11 18:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10.6
+2016-04-11 18:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
+2016-04-11 18:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.9
+2016-04-11 18:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;11.6
+2016-04-11 18:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;13
+2016-04-11 18:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.9
+2016-04-11 18:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.5
+2016-04-11 18:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.3
+2016-04-11 18:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2016-04-11 18:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.5
+2016-04-11 18:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10
+2016-04-11 19:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12.6
+2016-04-11 19:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.6
+2016-04-11 19:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.1
+2016-04-11 19:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;12.2
+2016-04-11 19:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;13.4
+2016-04-11 19:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;13.4
+2016-04-11 19:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.6
+2016-04-11 19:01:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;8.6
+2016-04-11 19:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;11.4
+2016-04-11 19:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.6
+2016-04-11 19:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;10.2
+2016-04-11 19:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10.5
+2016-04-11 19:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
+2016-04-11 19:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10
+2016-04-11 19:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.6
+2016-04-11 19:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;11.2
+2016-04-11 19:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.6
+2016-04-11 19:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2016-04-11 19:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.3
+2016-04-11 19:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.2
+2016-04-11 20:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12
+2016-04-11 20:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10
+2016-04-11 20:01:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;12.2
+2016-04-11 20:01:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;13.4
+2016-04-11 20:01:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;13.5
+2016-04-11 20:01:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.6
+2016-04-11 20:01:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;8.7
+2016-04-11 20:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;11.8
+2016-04-11 20:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.3
+2016-04-11 20:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;10.3
+2016-04-11 20:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10.4
+2016-04-11 20:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
+2016-04-11 20:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10
+2016-04-11 20:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.5
+2016-04-11 20:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;10.9
+2016-04-11 20:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.3
+2016-04-11 20:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.6
+2016-04-11 20:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2016-04-11 20:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.1
+2016-04-11 20:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10
+2016-04-11 21:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;11.5
+2016-04-11 21:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.2
+2016-04-11 21:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10
+2016-04-11 21:01:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;11.9
+2016-04-11 21:01:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;13.5
+2016-04-11 21:01:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;13.5
+2016-04-11 21:01:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.6
+2016-04-11 21:01:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;8.7
+2016-04-11 21:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;11.8
+2016-04-11 21:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2016-04-11 21:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;9.9
+2016-04-11 21:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10.2
+2016-04-11 21:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
+2016-04-11 21:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10
+2016-04-11 21:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.4
+2016-04-11 21:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;10.6
+2016-04-11 21:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.5
+2016-04-11 21:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2016-04-11 21:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.9
+2016-04-11 21:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;11.8
+2016-04-11 21:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2016-04-11 21:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.1
+2016-04-11 22:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;11.3
+2016-04-11 22:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.2
+2016-04-11 22:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10
+2016-04-11 22:01:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;11.8
+2016-04-11 22:01:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;13.5
+2016-04-11 22:01:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;13.5
+2016-04-11 22:01:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.7
+2016-04-11 22:01:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9
+2016-04-11 22:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;9.6
+2016-04-11 22:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10.1
+2016-04-11 22:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.6
+2016-04-11 22:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.9
+2016-04-11 22:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.3
+2016-04-11 22:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;10.2
+2016-04-11 22:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.6
+2016-04-11 22:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2016-04-11 22:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.6
+2016-04-11 22:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10
+2016-04-11 23:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.2
+2016-04-11 23:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;11.2
+2016-04-11 23:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.2
+2016-04-11 23:01:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;11.8
+2016-04-11 23:01:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;13.5
+2016-04-11 23:01:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;13.5
+2016-04-11 23:01:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.6
+2016-04-11 23:01:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9
+2016-04-11 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;11.8
+2016-04-11 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2016-04-11 23:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;9.2
+2016-04-11 23:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10
+2016-04-11 23:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.8
+2016-04-11 23:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.9
+2016-04-11 23:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;9.6
+2016-04-11 23:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;6.7
+2016-04-11 23:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.6
+2016-04-11 23:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2016-04-11 23:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.4
+2016-04-12 00:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.9
+2016-04-12 00:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.4
+2016-04-12 00:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;11.8
+2016-04-12 00:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;13.5
+2016-04-12 00:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;13.5
+2016-04-12 00:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.6
+2016-04-12 00:01:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9
+2016-04-12 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;11.8
+2016-04-12 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.9
+2016-04-12 00:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.8
+2016-04-12 00:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10
+2016-04-12 00:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.8
+2016-04-12 00:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.8
+2016-04-12 00:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.2
+2016-04-12 00:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.9
+2016-04-12 00:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;6.1
+2016-04-12 00:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.5
+2016-04-12 00:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2016-04-12 00:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.2
+2016-04-12 00:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10
+2016-04-12 01:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.7
+2016-04-12 01:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.5
+2016-04-12 01:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.6
+2016-04-12 01:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;11.8
+2016-04-12 01:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;13.5
+2016-04-12 01:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;13.5
+2016-04-12 01:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.6
+2016-04-12 01:01:52;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9
+2016-04-12 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;11.8
+2016-04-12 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.6
+2016-04-12 01:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.6
+2016-04-12 01:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.9
+2016-04-12 01:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.9
+2016-04-12 01:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.9
+2016-04-12 01:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.2
+2016-04-12 01:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.4
+2016-04-12 01:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.5
+2016-04-12 01:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2016-04-12 01:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.9
+2016-04-12 02:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.3
+2016-04-12 02:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.9
