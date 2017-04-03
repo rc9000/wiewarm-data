@@ -182,8 +182,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-01 12:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.9
 2017-01-01 12:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.4
 2017-01-01 12:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5.9
-2017-01-01 12:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.2
 2017-01-01 12:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;8.2
+2017-01-01 12:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.2
 2017-01-01 12:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7
 2017-01-01 12:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.4
 2017-01-01 12:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.4
@@ -197,8 +197,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-01 13:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.9
 2017-01-01 13:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.4
 2017-01-01 13:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;6
-2017-01-01 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;8.3
 2017-01-01 13:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.2
+2017-01-01 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;8.3
 2017-01-01 13:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7
 2017-01-01 13:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.4
 2017-01-01 13:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.3
@@ -453,8 +453,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-02 06:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.9
 2017-01-02 06:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.3
 2017-01-02 06:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5.7
-2017-01-02 06:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;7.8
 2017-01-02 06:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
+2017-01-02 06:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;7.8
 2017-01-02 06:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.8
 2017-01-02 06:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.8
 2017-01-02 06:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.6
@@ -1243,8 +1243,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-04 13:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.9
 2017-01-04 13:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.1
 2017-01-04 13:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5.6
-2017-01-04 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;7
 2017-01-04 13:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
+2017-01-04 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;7
 2017-01-04 13:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.7
 2017-01-04 13:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.9
 2017-01-04 13:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.6
@@ -1800,8 +1800,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-06 02:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;3.8
 2017-01-06 02:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.9
 2017-01-06 02:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5.5
-2017-01-06 02:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;7
 2017-01-06 02:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.6
+2017-01-06 02:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;7
 2017-01-06 02:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.5
 2017-01-06 02:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.6
 2017-01-06 02:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.2
@@ -2322,8 +2322,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-07 13:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.3
 2017-01-07 13:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.7
 2017-01-07 13:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5.1
-2017-01-07 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.6
 2017-01-07 13:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;3.7
+2017-01-07 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.6
 2017-01-07 13:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.2
 2017-01-07 13:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.2
 2017-01-07 13:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.1
@@ -2591,8 +2591,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-08 07:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.3
 2017-01-08 07:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.6
 2017-01-08 07:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.9
-2017-01-08 07:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.4
 2017-01-08 07:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;3.7
+2017-01-08 07:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.4
 2017-01-08 07:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6
 2017-01-08 07:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.1
 2017-01-08 07:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.2
@@ -3090,8 +3090,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-09 19:01:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.5
 2017-01-09 19:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.6
 2017-01-09 19:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5.2
-2017-01-09 19:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6
 2017-01-09 19:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.3
+2017-01-09 19:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6
 2017-01-09 19:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.3
 2017-01-09 19:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.1
 2017-01-09 19:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;3.2
@@ -3350,8 +3350,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-10 13:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;3.9
 2017-01-10 13:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.6
 2017-01-10 13:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5
-2017-01-10 13:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.2
 2017-01-10 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.8
+2017-01-10 13:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.2
 2017-01-10 13:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.4
 2017-01-10 13:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.2
 2017-01-10 13:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.2
@@ -4236,8 +4236,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-13 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.9
 2017-01-13 00:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.5
 2017-01-13 00:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5.4
-2017-01-13 00:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.3
 2017-01-13 00:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.9
+2017-01-13 00:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.3
 2017-01-13 00:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.3
 2017-01-13 00:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;4.9
 2017-01-13 00:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.7
@@ -4672,8 +4672,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-14 05:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.8
 2017-01-14 05:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.4
 2017-01-14 05:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5.1
-2017-01-14 05:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
 2017-01-14 05:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.2
+2017-01-14 05:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
 2017-01-14 05:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.8
 2017-01-14 05:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.1
 2017-01-14 05:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.2
@@ -4823,8 +4823,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-14 15:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.9
 2017-01-14 15:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.3
 2017-01-14 15:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5.2
-2017-01-14 15:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
 2017-01-14 15:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5
+2017-01-14 15:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
 2017-01-14 15:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.4
 2017-01-14 15:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.6
 2017-01-14 15:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.2
@@ -5216,8 +5216,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-15 17:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.6
 2017-01-15 17:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.4
 2017-01-15 17:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.9
-2017-01-15 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
 2017-01-15 17:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.8
+2017-01-15 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
 2017-01-15 17:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.1
 2017-01-15 17:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.2
 2017-01-15 17:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.1
@@ -5352,8 +5352,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-16 02:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.3
 2017-01-16 02:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.3
 2017-01-16 02:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.7
-2017-01-16 02:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.6
 2017-01-16 02:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.9
+2017-01-16 02:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.6
 2017-01-16 02:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.9
 2017-01-16 02:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.2
 2017-01-16 02:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.1
@@ -5472,8 +5472,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-16 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.8
 2017-01-16 10:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.2
 2017-01-16 10:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.6
-2017-01-16 10:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
 2017-01-16 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.4
+2017-01-16 10:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
 2017-01-16 10:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.5
 2017-01-16 10:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.7
 2017-01-16 10:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.1
@@ -5728,8 +5728,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-17 03:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.8
 2017-01-17 03:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.2
 2017-01-17 03:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.6
-2017-01-17 03:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;4.7
 2017-01-17 03:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;3.4
+2017-01-17 03:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;4.7
 2017-01-17 03:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-01-17 03:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.8
 2017-01-17 03:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.8
@@ -5743,8 +5743,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-17 04:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.8
 2017-01-17 04:05:12;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.2
 2017-01-17 04:05:14;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.7
-2017-01-17 04:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;4.6
 2017-01-17 04:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.1
+2017-01-17 04:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;4.6
 2017-01-17 04:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-01-17 04:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.7
 2017-01-17 04:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.7
@@ -6259,8 +6259,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-18 14:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.9
 2017-01-18 14:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.1
 2017-01-18 14:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.5
-2017-01-18 14:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6
 2017-01-18 14:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;3.3
+2017-01-18 14:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6
 2017-01-18 14:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.6
 2017-01-18 14:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.7
 2017-01-18 14:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;3
@@ -6772,8 +6772,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-20 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.8
 2017-01-20 00:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.1
 2017-01-20 00:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.5
-2017-01-20 00:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
 2017-01-20 00:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;4.3
+2017-01-20 00:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
 2017-01-20 00:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.8
 2017-01-20 00:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.8
 2017-01-20 00:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;3.9
@@ -6996,8 +6996,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-20 15:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.3
 2017-01-20 15:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.1
 2017-01-20 15:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.5
-2017-01-20 15:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
 2017-01-20 15:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;4.5
+2017-01-20 15:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
 2017-01-20 15:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.5
 2017-01-20 15:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.1
 2017-01-20 15:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.4
@@ -7011,8 +7011,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-20 16:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.3
 2017-01-20 16:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.1
 2017-01-20 16:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.4
-2017-01-20 16:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
 2017-01-20 16:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5
+2017-01-20 16:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
 2017-01-20 16:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.6
 2017-01-20 16:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.9
 2017-01-20 16:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.3
@@ -7026,8 +7026,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-20 17:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.1
 2017-01-20 17:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.1
 2017-01-20 17:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.4
-2017-01-20 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.5
 2017-01-20 17:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
+2017-01-20 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.5
 2017-01-20 17:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-01-20 17:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.8
 2017-01-20 17:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.3
@@ -7221,8 +7221,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-21 06:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.8
 2017-01-21 06:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5
 2017-01-21 06:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.1
-2017-01-21 06:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.6
 2017-01-21 06:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;4.2
+2017-01-21 06:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.6
 2017-01-21 06:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-01-21 06:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;0.8
 2017-01-21 06:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.4
@@ -7236,8 +7236,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-21 07:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.8
 2017-01-21 07:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5
 2017-01-21 07:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.1
-2017-01-21 07:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;4.2
 2017-01-21 07:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.6
+2017-01-21 07:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;4.2
 2017-01-21 07:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.6
 2017-01-21 07:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;0.8
 2017-01-21 07:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.4
@@ -7386,8 +7386,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-21 17:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.3
 2017-01-21 17:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5
 2017-01-21 17:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.1
-2017-01-21 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;3.7
 2017-01-21 17:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
+2017-01-21 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;3.7
 2017-01-21 17:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.9
 2017-01-21 17:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.1
 2017-01-21 17:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.4
@@ -7401,8 +7401,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-21 18:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.3
 2017-01-21 18:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5
 2017-01-21 18:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.1
-2017-01-21 18:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;3.7
 2017-01-21 18:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
+2017-01-21 18:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;3.7
 2017-01-21 18:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.9
 2017-01-21 18:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.1
 2017-01-21 18:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.3
@@ -8043,8 +8043,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-26 08:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;2.3
 2017-01-26 08:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.7
 2017-01-26 08:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;3.5
-2017-01-26 08:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;3.3
 2017-01-26 08:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.4
+2017-01-26 08:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;3.3
 2017-01-26 08:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.4
 2017-01-26 08:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;0.8
 2017-01-26 08:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;3.8
@@ -8300,8 +8300,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-27 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.8
 2017-01-27 01:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.6
 2017-01-27 01:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;3.9
-2017-01-27 01:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;3.6
 2017-01-27 01:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.5
+2017-01-27 01:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;3.6
 2017-01-27 01:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.3
 2017-01-27 01:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1
 2017-01-27 01:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;3.7
@@ -8434,8 +8434,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-27 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.6
 2017-01-27 10:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.6
 2017-01-27 10:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;3.5
-2017-01-27 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.6
 2017-01-27 10:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;3.4
+2017-01-27 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.6
 2017-01-27 10:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.3
 2017-01-27 10:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;0.7
 2017-01-27 10:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;3.8
@@ -8495,8 +8495,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-27 14:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.9
 2017-01-27 14:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.7
 2017-01-27 14:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;3.9
-2017-01-27 14:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.9
 2017-01-27 14:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;3.7
+2017-01-27 14:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.9
 2017-01-27 14:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.5
 2017-01-27 14:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.6
 2017-01-27 14:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.2
@@ -8569,8 +8569,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-27 19:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.3
 2017-01-27 19:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.6
 2017-01-27 19:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;3.7
-2017-01-27 19:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
 2017-01-27 19:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;3.8
+2017-01-27 19:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
 2017-01-27 19:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-01-27 19:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.2
 2017-01-27 19:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;2.8
@@ -9129,8 +9129,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-29 08:03:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;2.9
 2017-01-29 08:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.7
 2017-01-29 08:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4
-2017-01-29 08:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.6
 2017-01-29 08:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;2.8
+2017-01-29 08:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.6
 2017-01-29 08:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.3
 2017-01-29 08:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.8
 2017-01-29 08:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.5
@@ -9387,8 +9387,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-30 01:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;3.7
 2017-01-30 01:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.9
 2017-01-30 01:05:21;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.1
-2017-01-30 01:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;3.2
 2017-01-30 01:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.9
+2017-01-30 01:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;3.2
 2017-01-30 01:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.5
 2017-01-30 01:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.5
 2017-01-30 01:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.7
@@ -9402,8 +9402,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-30 02:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.3
 2017-01-30 02:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.8
 2017-01-30 02:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.1
-2017-01-30 02:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.9
 2017-01-30 02:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;3.2
+2017-01-30 02:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.9
 2017-01-30 02:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.3
 2017-01-30 02:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.4
 2017-01-30 02:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.7
@@ -9476,8 +9476,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-30 07:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;3.2
 2017-01-30 07:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.8
 2017-01-30 07:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.1
-2017-01-30 07:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;3.2
 2017-01-30 07:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.9
+2017-01-30 07:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;3.2
 2017-01-30 07:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.1
 2017-01-30 07:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.3
 2017-01-30 07:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;4.8
@@ -9658,8 +9658,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-30 19:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.3
 2017-01-30 19:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.8
 2017-01-30 19:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.2
-2017-01-30 19:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
 2017-01-30 19:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;3.7
+2017-01-30 19:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
 2017-01-30 19:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.8
 2017-01-30 19:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.7
 2017-01-30 19:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5
@@ -9899,8 +9899,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-01-31 11:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.1
 2017-01-31 11:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.7
 2017-01-31 11:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.3
-2017-01-31 11:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.1
 2017-01-31 11:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.5
+2017-01-31 11:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.1
 2017-01-31 11:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-01-31 11:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;3.8
 2017-01-31 11:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.3
@@ -10169,8 +10169,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-01 05:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.9
 2017-02-01 05:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.7
 2017-02-01 05:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.6
-2017-02-01 05:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.7
 2017-02-01 05:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.5
+2017-02-01 05:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.7
 2017-02-01 05:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.8
 2017-02-01 05:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;0.2
 2017-02-01 05:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.3
@@ -10184,8 +10184,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-01 06:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.9
 2017-02-01 06:05:08;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.7
 2017-02-01 06:05:10;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.6
-2017-02-01 06:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.3
 2017-02-01 06:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.7
+2017-02-01 06:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.3
 2017-02-01 06:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.8
 2017-02-01 06:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;0.2
 2017-02-01 06:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.3
@@ -10334,8 +10334,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-01 16:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
 2017-02-01 16:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.9
 2017-02-01 16:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.9
-2017-02-01 16:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.9
 2017-02-01 16:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.5
+2017-02-01 16:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.9
 2017-02-01 16:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.1
 2017-02-01 16:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1
 2017-02-01 16:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.5
@@ -10455,8 +10455,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-02 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5.3
 2017-02-02 00:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.8
 2017-02-02 00:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.9
-2017-02-02 00:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.2
 2017-02-02 00:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
+2017-02-02 00:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.2
 2017-02-02 00:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.9
 2017-02-02 00:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;0.9
 2017-02-02 00:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.5
@@ -10710,8 +10710,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-02 17:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5.6
 2017-02-02 17:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.8
 2017-02-02 17:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5
-2017-02-02 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.7
 2017-02-02 17:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.2
+2017-02-02 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;5.7
 2017-02-02 17:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6
 2017-02-02 17:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3
 2017-02-02 17:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.4
@@ -10965,8 +10965,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-03 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5.6
 2017-02-03 10:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.7
 2017-02-03 10:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.9
-2017-02-03 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.1
 2017-02-03 10:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.1
+2017-02-03 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.1
 2017-02-03 10:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-02-03 10:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.8
 2017-02-03 10:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.4
@@ -11234,8 +11234,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-04 04:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5.4
 2017-02-04 04:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.8
 2017-02-04 04:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5
-2017-02-04 04:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.4
 2017-02-04 04:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
+2017-02-04 04:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.4
 2017-02-04 04:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-02-04 04:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.4
 2017-02-04 04:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.4
@@ -11249,8 +11249,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-04 05:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
 2017-02-04 05:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.8
 2017-02-04 05:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.9
-2017-02-04 05:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
 2017-02-04 05:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.4
+2017-02-04 05:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
 2017-02-04 05:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-02-04 05:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.2
 2017-02-04 05:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.3
@@ -11507,8 +11507,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-04 22:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
 2017-02-04 22:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.8
 2017-02-04 22:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5
-2017-02-04 22:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
 2017-02-04 22:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.5
+2017-02-04 22:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
 2017-02-04 22:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-02-04 22:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.2
 2017-02-04 22:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.4
@@ -11776,8 +11776,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-05 16:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
 2017-02-05 16:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.7
 2017-02-05 16:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.9
-2017-02-05 16:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.4
 2017-02-05 16:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.3
+2017-02-05 16:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.4
 2017-02-05 16:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.5
 2017-02-05 16:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.5
 2017-02-05 16:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.2
@@ -12033,8 +12033,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-06 09:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.9
 2017-02-06 09:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.6
 2017-02-06 09:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.7
-2017-02-06 09:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.4
 2017-02-06 09:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
+2017-02-06 09:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.4
 2017-02-06 09:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.4
 2017-02-06 09:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.7
 2017-02-06 09:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5
@@ -12297,8 +12297,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-07 02:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.2
 2017-02-07 02:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.1
 2017-02-07 02:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;4.9
-2017-02-07 02:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;1
 2017-02-07 02:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4
+2017-02-07 02:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;1
 2017-02-07 02:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5
 2017-02-07 03:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;3.9
 2017-02-07 03:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.4
@@ -13255,8 +13255,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-09 18:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
 2017-02-09 18:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.6
 2017-02-09 18:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.6
-2017-02-09 18:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.8
 2017-02-09 18:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.7
+2017-02-09 18:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.8
 2017-02-09 18:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.6
 2017-02-09 18:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;4.3
 2017-02-09 18:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;4.9
@@ -13316,8 +13316,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-09 22:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;1.7
 2017-02-09 22:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.6
 2017-02-09 22:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.5
-2017-02-09 22:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.8
 2017-02-09 22:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.3
+2017-02-09 22:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.8
 2017-02-09 22:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.5
 2017-02-09 22:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.8
 2017-02-09 22:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.7
@@ -13390,8 +13390,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-10 03:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
 2017-02-10 03:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.6
 2017-02-10 03:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.5
-2017-02-10 03:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.5
 2017-02-10 03:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.8
+2017-02-10 03:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.5
 2017-02-10 03:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.5
 2017-02-10 03:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.2
 2017-02-10 03:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;4.3
@@ -13745,8 +13745,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-11 02:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.1
 2017-02-11 02:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;4.8
 2017-02-11 02:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.4
-2017-02-11 02:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;2
 2017-02-11 02:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
+2017-02-11 02:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;2
 2017-02-11 02:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5
 2017-02-11 03:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;4.6
 2017-02-11 03:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;1
@@ -14144,8 +14144,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-12 05:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
 2017-02-12 05:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.7
 2017-02-12 05:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.5
-2017-02-12 05:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.9
 2017-02-12 05:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;7.1
+2017-02-12 05:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.9
 2017-02-12 05:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.5
 2017-02-12 05:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.6
 2017-02-12 05:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.2
@@ -14159,8 +14159,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-12 06:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
 2017-02-12 06:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.6
 2017-02-12 06:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.5
-2017-02-12 06:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;7.1
 2017-02-12 06:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;4.9
+2017-02-12 06:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;7.1
 2017-02-12 06:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.5
 2017-02-12 06:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.6
 2017-02-12 06:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.1
@@ -14693,8 +14693,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-13 17:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.1
 2017-02-13 17:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.4
 2017-02-13 17:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;4.8
-2017-02-13 17:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;2
 2017-02-13 17:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
+2017-02-13 17:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;2
 2017-02-13 18:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;5
 2017-02-13 18:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2
 2017-02-13 18:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.7
@@ -14972,16 +14972,16 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-14 11:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;4.8
 2017-02-14 11:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.1
 2017-02-14 11:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;4.8
-2017-02-14 11:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;2
 2017-02-14 11:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4
+2017-02-14 11:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;2
 2017-02-14 12:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;4.8
 2017-02-14 12:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.3
 2017-02-14 12:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5
 2017-02-14 12:00:00;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;4.7
 2017-02-14 12:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.5
 2017-02-14 12:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.6
-2017-02-14 12:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
 2017-02-14 12:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6
+2017-02-14 12:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
 2017-02-14 12:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.6
 2017-02-14 12:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.5
 2017-02-14 12:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.1
@@ -14995,8 +14995,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-14 13:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5.1
 2017-02-14 13:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.6
 2017-02-14 13:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.6
-2017-02-14 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.1
 2017-02-14 13:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.1
+2017-02-14 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.1
 2017-02-14 13:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-02-14 13:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;4.1
 2017-02-14 13:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.3
@@ -15508,8 +15508,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-15 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5.6
 2017-02-15 23:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;4.7
 2017-02-15 23:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.9
-2017-02-15 23:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.8
 2017-02-15 23:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.3
+2017-02-15 23:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.8
 2017-02-15 23:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6
 2017-02-15 23:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.6
 2017-02-15 23:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.1
@@ -15780,8 +15780,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-16 17:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5.8
 2017-02-16 17:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.4
 2017-02-16 17:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5
-2017-02-16 17:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.5
 2017-02-16 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;8.5
+2017-02-16 17:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.5
 2017-02-16 17:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.4
 2017-02-16 17:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;5
 2017-02-16 17:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.3
@@ -16032,14 +16032,14 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-17 09:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5
 2017-02-17 10:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;4.8
 2017-02-17 10:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.4
-2017-02-17 10:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.6
 2017-02-17 10:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;6.1
+2017-02-17 10:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.6
 2017-02-17 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;4.5
 2017-02-17 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5.6
 2017-02-17 10:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5
 2017-02-17 10:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.7
-2017-02-17 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.5
 2017-02-17 10:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.7
+2017-02-17 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.5
 2017-02-17 10:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.8
 2017-02-17 10:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.7
 2017-02-17 10:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.3
@@ -16053,8 +16053,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-02-17 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5.6
 2017-02-17 11:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.1
 2017-02-17 11:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;4.8
-2017-02-17 11:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.7
 2017-02-17 11:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.5
+2017-02-17 11:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.7
 2017-02-17 11:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.9
 2017-02-17 11:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.9
 2017-02-17 11:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.3
@@ -22601,8 +22601,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-03-07 23:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;5.5
 2017-03-07 23:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.8
 2017-03-07 23:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;6.1
-2017-03-07 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;5.7
 2017-03-07 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;6.7
+2017-03-07 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;5.7
 2017-03-07 23:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5
 2017-03-07 23:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5.1
 2017-03-07 23:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;6.2
@@ -23046,9 +23046,9 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-03-09 04:05:15;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;5.1
 2017-03-09 04:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;6.2
 2017-03-09 04:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;6.6
-2017-03-09 04:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-03-09 04:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;5.1
 2017-03-09 04:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5.6
+2017-03-09 04:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.7
 2017-03-09 04:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;6.5
 2017-03-09 04:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.8
 2017-03-09 04:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;6.5
@@ -25088,8 +25088,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-03-14 22:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.7
 2017-03-14 22:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.1
 2017-03-14 22:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;7.8
-2017-03-14 22:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;7.8
 2017-03-14 22:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;9.5
+2017-03-14 22:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;7.8
 2017-03-14 22:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.2
 2017-03-14 22:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;6.2
 2017-03-14 22:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;7
@@ -31302,8 +31302,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-04-01 09:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.9
 2017-04-01 09:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;10.4
 2017-04-01 09:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.7
-2017-04-01 09:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
 2017-04-01 09:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.4
+2017-04-01 09:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
 2017-04-01 09:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.7
 2017-04-01 09:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.7
 2017-04-01 09:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.6
@@ -31315,8 +31315,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-04-01 10:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.8
 2017-04-01 10:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;10.5
 2017-04-01 10:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.7
-2017-04-01 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.3
 2017-04-01 10:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.7
+2017-04-01 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.3
 2017-04-01 10:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.8
 2017-04-01 10:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.8
 2017-04-01 10:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.7
@@ -31326,8 +31326,8 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-04-01 11:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.1
 2017-04-01 11:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.9
 2017-04-01 11:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.8
-2017-04-01 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
 2017-04-01 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;13.2
+2017-04-01 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
 2017-04-01 11:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.6
 2017-04-01 11:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.8
 2017-04-01 11:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10
@@ -31531,11 +31531,13 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-04-02 00:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.7
 2017-04-02 00:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.9
 2017-04-02 00:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.6
+2017-04-02 00:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
 2017-04-02 01:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.6
 2017-04-02 01:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.8
 2017-04-02 01:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.8
 2017-04-02 01:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.7
 2017-04-02 01:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11.5
+2017-04-02 01:00:00;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;9.4
 2017-04-02 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14
 2017-04-02 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
 2017-04-02 01:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.3
@@ -31545,5 +31547,364 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2017-04-02 01:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.7
 2017-04-02 01:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.9
 2017-04-02 01:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.2
+2017-04-02 01:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 02:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.3
+2017-04-02 02:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.6
+2017-04-02 02:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.4
+2017-04-02 02:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.6
+2017-04-02 02:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11.7
+2017-04-02 02:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14
+2017-04-02 02:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
 2017-04-02 02:05:05;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.6
 2017-04-02 02:05:07;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10.3
+2017-04-02 02:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.2
+2017-04-02 02:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.8
+2017-04-02 02:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.6
+2017-04-02 02:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.9
+2017-04-02 02:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.8
+2017-04-02 02:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 03:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.1
+2017-04-02 03:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.4
+2017-04-02 03:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4
+2017-04-02 03:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.4
+2017-04-02 03:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11.7
+2017-04-02 03:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14
+2017-04-02 03:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 03:05:10;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.5
+2017-04-02 03:05:12;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10.3
+2017-04-02 03:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.8
+2017-04-02 03:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11
+2017-04-02 03:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.6
+2017-04-02 03:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.9
+2017-04-02 03:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.6
+2017-04-02 03:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.9
+2017-04-02 04:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8
+2017-04-02 04:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.3
+2017-04-02 04:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.6
+2017-04-02 04:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.1
+2017-04-02 04:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11.7
+2017-04-02 04:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14
+2017-04-02 04:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 04:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.2
+2017-04-02 04:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10.1
+2017-04-02 04:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.7
+2017-04-02 04:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.8
+2017-04-02 04:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.6
+2017-04-02 04:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.9
+2017-04-02 04:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.4
+2017-04-02 04:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.8
+2017-04-02 05:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.9
+2017-04-02 05:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.2
+2017-04-02 05:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.2
+2017-04-02 05:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.6
+2017-04-02 05:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11.7
+2017-04-02 05:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14
+2017-04-02 05:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 05:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.2
+2017-04-02 05:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10.2
+2017-04-02 05:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.7
+2017-04-02 05:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.7
+2017-04-02 05:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.5
+2017-04-02 05:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11
+2017-04-02 05:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.2
+2017-04-02 05:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 06:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.8
+2017-04-02 06:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.1
+2017-04-02 06:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3
+2017-04-02 06:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.3
+2017-04-02 06:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11.5
+2017-04-02 06:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;13.5
+2017-04-02 06:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 06:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8.1
+2017-04-02 06:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10.1
+2017-04-02 06:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.6
+2017-04-02 06:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.6
+2017-04-02 06:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.5
+2017-04-02 06:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11
+2017-04-02 06:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.1
+2017-04-02 06:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;13.4
+2017-04-02 06:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 06:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 07:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.7
+2017-04-02 07:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.9
+2017-04-02 07:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2.7
+2017-04-02 07:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.1
+2017-04-02 07:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11.4
+2017-04-02 07:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;8
+2017-04-02 07:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.7
+2017-04-02 07:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.5
+2017-04-02 07:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.6
+2017-04-02 07:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.5
+2017-04-02 07:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11
+2017-04-02 07:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.1
+2017-04-02 07:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.8
+2017-04-02 08:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.6
+2017-04-02 08:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.9
+2017-04-02 08:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2.5
+2017-04-02 08:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.9
+2017-04-02 08:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11.2
+2017-04-02 08:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;13.4
+2017-04-02 08:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 08:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.9
+2017-04-02 08:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.4
+2017-04-02 08:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.5
+2017-04-02 08:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.6
+2017-04-02 08:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.5
+2017-04-02 08:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.1
+2017-04-02 08:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7
+2017-04-02 08:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.8
+2017-04-02 09:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.6
+2017-04-02 09:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.9
+2017-04-02 09:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2.3
+2017-04-02 09:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.8
+2017-04-02 09:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11
+2017-04-02 09:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;13.4
+2017-04-02 09:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 09:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.9
+2017-04-02 09:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.2
+2017-04-02 09:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.4
+2017-04-02 09:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.5
+2017-04-02 09:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.6
+2017-04-02 09:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.1
+2017-04-02 09:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7
+2017-04-02 09:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 10:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.6
+2017-04-02 10:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9
+2017-04-02 10:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2.3
+2017-04-02 10:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.8
+2017-04-02 10:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.9
+2017-04-02 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;13.4
+2017-04-02 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 10:05:05;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.9
+2017-04-02 10:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10
+2017-04-02 10:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.3
+2017-04-02 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.5
+2017-04-02 10:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.6
+2017-04-02 10:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.1
+2017-04-02 10:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7
+2017-04-02 10:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 11:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.7
+2017-04-02 11:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.2
+2017-04-02 11:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2.7
+2017-04-02 11:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.8
+2017-04-02 11:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.8
+2017-04-02 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;13
+2017-04-02 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 11:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.4
+2017-04-02 11:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.7
+2017-04-02 11:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.3
+2017-04-02 11:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.5
+2017-04-02 11:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.6
+2017-04-02 11:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.2
+2017-04-02 11:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.1
+2017-04-02 11:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.8
+2017-04-02 12:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.7
+2017-04-02 12:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.3
+2017-04-02 12:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.3
+2017-04-02 12:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.7
+2017-04-02 12:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.8
+2017-04-02 12:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-02 12:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 12:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.7
+2017-04-02 12:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.8
+2017-04-02 12:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.3
+2017-04-02 12:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.5
+2017-04-02 12:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.7
+2017-04-02 12:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.2
+2017-04-02 12:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.2
+2017-04-02 12:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-02 12:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 12:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.9
+2017-04-02 13:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.7
+2017-04-02 13:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.8
+2017-04-02 13:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.2
+2017-04-02 13:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.8
+2017-04-02 13:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.9
+2017-04-02 13:00:00;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;9.9
+2017-04-02 13:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.6
+2017-04-02 13:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.8
+2017-04-02 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.4
+2017-04-02 13:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.6
+2017-04-02 13:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.7
+2017-04-02 13:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.2
+2017-04-02 13:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.3
+2017-04-02 13:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 14:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.8
+2017-04-02 14:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10
+2017-04-02 14:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.5
+2017-04-02 14:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.7
+2017-04-02 14:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11
+2017-04-02 14:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-02 14:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 14:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.4
+2017-04-02 14:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.8
+2017-04-02 14:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.5
+2017-04-02 14:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.7
+2017-04-02 14:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.7
+2017-04-02 14:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.3
+2017-04-02 14:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.5
+2017-04-02 14:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 15:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8
+2017-04-02 15:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.1
+2017-04-02 15:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;6.1
+2017-04-02 15:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.9
+2017-04-02 15:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11.1
+2017-04-02 15:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-02 15:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 15:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.5
+2017-04-02 15:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10
+2017-04-02 15:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.8
+2017-04-02 15:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.8
+2017-04-02 15:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.9
+2017-04-02 15:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.3
+2017-04-02 15:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.6
+2017-04-02 15:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.2
+2017-04-02 16:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.3
+2017-04-02 16:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.1
+2017-04-02 16:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;6.6
+2017-04-02 16:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.1
+2017-04-02 16:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11.1
+2017-04-02 16:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-02 16:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 16:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.2
+2017-04-02 16:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10
+2017-04-02 16:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.9
+2017-04-02 16:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11
+2017-04-02 16:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.2
+2017-04-02 16:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.2
+2017-04-02 16:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.6
+2017-04-02 16:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.3
+2017-04-02 17:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.4
+2017-04-02 17:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.3
+2017-04-02 17:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.4
+2017-04-02 17:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.5
+2017-04-02 17:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;11
+2017-04-02 17:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-02 17:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 17:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.1
+2017-04-02 17:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10
+2017-04-02 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11
+2017-04-02 17:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.9
+2017-04-02 17:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.1
+2017-04-02 17:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.2
+2017-04-02 17:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.7
+2017-04-02 17:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 18:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.4
+2017-04-02 18:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.4
+2017-04-02 18:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.6
+2017-04-02 18:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.6
+2017-04-02 18:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.9
+2017-04-02 18:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-02 18:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 18:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.9
+2017-04-02 18:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.9
+2017-04-02 18:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.9
+2017-04-02 18:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11
+2017-04-02 18:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.1
+2017-04-02 18:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.1
+2017-04-02 18:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.6
+2017-04-02 18:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 19:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.5
+2017-04-02 19:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.3
+2017-04-02 19:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.5
+2017-04-02 19:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.8
+2017-04-02 19:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.8
+2017-04-02 19:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-02 19:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 19:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.1
+2017-04-02 19:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10
+2017-04-02 19:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.9
+2017-04-02 19:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11
+2017-04-02 19:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.2
+2017-04-02 19:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11
+2017-04-02 19:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.5
+2017-04-02 19:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.4
+2017-04-02 20:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.4
+2017-04-02 20:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.3
+2017-04-02 20:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.1
+2017-04-02 20:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.9
+2017-04-02 20:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.6
+2017-04-02 20:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-02 20:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 20:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.8
+2017-04-02 20:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10
+2017-04-02 20:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.9
+2017-04-02 20:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11
+2017-04-02 20:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.3
+2017-04-02 20:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11
+2017-04-02 20:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.6
+2017-04-02 20:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-02 20:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 20:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.4
+2017-04-02 21:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.3
+2017-04-02 21:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.1
+2017-04-02 21:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;6.7
+2017-04-02 21:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.8
+2017-04-02 21:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.4
+2017-04-02 21:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7
+2017-04-02 21:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.9
+2017-04-02 21:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.8
+2017-04-02 21:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11
+2017-04-02 21:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.6
+2017-04-02 21:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.9
+2017-04-02 21:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.7
+2017-04-02 21:40:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;13
+2017-04-02 21:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 22:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.2
+2017-04-02 22:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.9
+2017-04-02 22:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;6.4
+2017-04-02 22:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.9
+2017-04-02 22:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.2
+2017-04-02 22:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.8
+2017-04-02 22:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.9
+2017-04-02 22:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.8
+2017-04-02 22:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.9
+2017-04-02 22:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.7
+2017-04-02 22:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.8
+2017-04-02 22:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.6
+2017-04-02 22:40:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11
+2017-04-02 23:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.1
+2017-04-02 23:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.8
+2017-04-02 23:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;6.1
+2017-04-02 23:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.9
+2017-04-02 23:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.1
+2017-04-02 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-02 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-02 23:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.2
+2017-04-02 23:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.9
+2017-04-02 23:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.8
+2017-04-02 23:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.9
+2017-04-02 23:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.6
+2017-04-02 23:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.8
+2017-04-02 23:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.6
+2017-04-02 23:30:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.3
+2017-04-03 00:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8
+2017-04-03 00:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.7
+2017-04-03 00:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.8
+2017-04-03 00:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.1
+2017-04-03 00:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10
+2017-04-03 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-03 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-03 00:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.2
+2017-04-03 00:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.7
+2017-04-03 00:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.8
+2017-04-03 00:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.8
+2017-04-03 00:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.7
+2017-04-03 00:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.8
+2017-04-03 00:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.6
+2017-04-03 01:00:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.9
+2017-04-03 01:00:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.6
+2017-04-03 01:00:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.5
+2017-04-03 01:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.3
+2017-04-03 01:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10
+2017-04-03 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;12.9
+2017-04-03 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;0
+2017-04-03 01:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.4
+2017-04-03 01:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.3
+2017-04-03 01:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10.7
+2017-04-03 01:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11
+2017-04-03 01:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.7
+2017-04-03 01:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.8
+2017-04-03 01:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.6
+2017-04-03 02:05:06;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;7.3
+2017-04-03 02:05:09;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.5
