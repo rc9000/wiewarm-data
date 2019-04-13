@@ -34627,6 +34627,7 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2019-04-12 00:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.7
 2019-04-12 00:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.9
 2019-04-12 00:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.1
+2019-04-12 01:00:00;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;7.3
 2019-04-12 01:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.2
 2019-04-12 01:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.9
 2019-04-12 01:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
@@ -34640,5 +34641,340 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2019-04-12 01:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.6
 2019-04-12 01:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.8
 2019-04-12 01:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.8
+2019-04-12 02:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 02:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.9
 2019-04-12 02:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.1
 2019-04-12 02:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.8
+2019-04-12 02:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.6
+2019-04-12 02:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.8
+2019-04-12 02:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.3
+2019-04-12 02:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6.1
+2019-04-12 02:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;7.8
+2019-04-12 02:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.8
+2019-04-12 02:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.8
+2019-04-12 02:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.5
+2019-04-12 02:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.6
+2019-04-12 02:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.8
+2019-04-12 02:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.6
+2019-04-12 03:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 03:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2019-04-12 03:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.1
+2019-04-12 03:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.8
+2019-04-12 03:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.5
+2019-04-12 03:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.1
+2019-04-12 03:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.3
+2019-04-12 03:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6
+2019-04-12 03:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;7.6
+2019-04-12 03:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.6
+2019-04-12 03:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.6
+2019-04-12 03:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.6
+2019-04-12 03:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.6
+2019-04-12 03:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.7
+2019-04-12 03:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.5
+2019-04-12 03:30:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.3
+2019-04-12 03:30:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6
+2019-04-12 03:30:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.5
+2019-04-12 03:50:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.5
+2019-04-12 03:50:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.4
+2019-04-12 03:50:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.4
+2019-04-12 04:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.6
+2019-04-12 04:04:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 04:04:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2019-04-12 04:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.5
+2019-04-12 04:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.7
+2019-04-12 04:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.2
+2019-04-12 04:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;7.4
+2019-04-12 04:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.6
+2019-04-12 04:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.7
+2019-04-12 04:30:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.3
+2019-04-12 04:40:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.7
+2019-04-12 05:00:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.2
+2019-04-12 05:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 05:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2019-04-12 05:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.6
+2019-04-12 05:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.7
+2019-04-12 05:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.4
+2019-04-12 05:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;5.7
+2019-04-12 05:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;7.2
+2019-04-12 05:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.7
+2019-04-12 05:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.4
+2019-04-12 05:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.6
+2019-04-12 05:20:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.7
+2019-04-12 05:30:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;5.6
+2019-04-12 05:30:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.2
+2019-04-12 05:40:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.7
+2019-04-12 05:50:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.4
+2019-04-12 06:00:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.2
+2019-04-12 06:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 06:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2019-04-12 06:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.5
+2019-04-12 06:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.6
+2019-04-12 06:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;7
+2019-04-12 06:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.3
+2019-04-12 06:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.6
+2019-04-12 06:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.2
+2019-04-12 07:00:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.2
+2019-04-12 07:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 07:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2019-04-12 07:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.2
+2019-04-12 07:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.5
+2019-04-12 07:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.3
+2019-04-12 07:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.2
+2019-04-12 07:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;5.3
+2019-04-12 07:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;6.7
+2019-04-12 07:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3
+2019-04-12 07:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.7
+2019-04-12 07:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.5
+2019-04-12 07:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.7
+2019-04-12 07:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.1
+2019-04-12 08:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 08:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2019-04-12 08:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.1
+2019-04-12 08:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.4
+2019-04-12 08:30:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;6.5
+2019-04-12 09:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 09:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2019-04-12 09:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6
+2019-04-12 09:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.4
+2019-04-12 09:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.2
+2019-04-12 09:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.7
+2019-04-12 09:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;5.2
+2019-04-12 09:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2.9
+2019-04-12 09:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.7
+2019-04-12 09:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;8.9
+2019-04-12 09:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.5
+2019-04-12 09:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2019-04-12 09:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.1
+2019-04-12 09:50:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.4
+2019-04-12 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2019-04-12 10:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.9
+2019-04-12 10:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.4
+2019-04-12 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.2
+2019-04-12 10:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.3
+2019-04-12 10:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.1
+2019-04-12 10:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;5.5
+2019-04-12 10:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;6.9
+2019-04-12 10:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;2.9
+2019-04-12 10:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.7
+2019-04-12 10:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;8.9
+2019-04-12 10:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2019-04-12 10:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.4
+2019-04-12 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2019-04-12 11:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.8
+2019-04-12 11:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.3
+2019-04-12 11:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.2
+2019-04-12 11:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.2
+2019-04-12 11:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.3
+2019-04-12 11:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6.1
+2019-04-12 11:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;7.6
+2019-04-12 11:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.1
+2019-04-12 11:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.8
+2019-04-12 11:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9
+2019-04-12 11:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.5
+2019-04-12 11:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.8
+2019-04-12 11:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.8
+2019-04-12 12:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 12:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.3
+2019-04-12 12:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.1
+2019-04-12 12:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.6
+2019-04-12 12:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.4
+2019-04-12 12:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.8
+2019-04-12 12:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.5
+2019-04-12 12:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7
+2019-04-12 12:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.7
+2019-04-12 12:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.3
+2019-04-12 12:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;7.8
+2019-04-12 12:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.2
+2019-04-12 12:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.6
+2019-04-12 12:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.9
+2019-04-12 12:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.2
+2019-04-12 12:34:10;64;Lido / Hallenbad;Hertensteinstrasse 45;;Weggis;6353;LU;175;Schwimmbecken;Hallenbad;31
+2019-04-12 13:00:00;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;7.4
+2019-04-12 13:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 13:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.5
+2019-04-12 13:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.9
+2019-04-12 13:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.5
+2019-04-12 13:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.5
+2019-04-12 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.2
+2019-04-12 13:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.7
+2019-04-12 13:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.1
+2019-04-12 13:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.4
+2019-04-12 13:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;3.6
+2019-04-12 13:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8
+2019-04-12 13:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.5
+2019-04-12 13:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.7
+2019-04-12 13:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10
+2019-04-12 13:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.6
+2019-04-12 14:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 14:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9
+2019-04-12 14:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.8
+2019-04-12 14:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.7
+2019-04-12 14:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.7
+2019-04-12 14:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.5
+2019-04-12 14:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.9
+2019-04-12 14:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.7
+2019-04-12 14:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.4
+2019-04-12 14:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.1
+2019-04-12 14:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8
+2019-04-12 14:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.5
+2019-04-12 14:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;9.8
+2019-04-12 14:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.1
+2019-04-12 14:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.1
+2019-04-12 15:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 15:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.3
+2019-04-12 15:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.8
+2019-04-12 15:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8
+2019-04-12 15:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.8
+2019-04-12 15:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.6
+2019-04-12 15:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.1
+2019-04-12 15:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.9
+2019-04-12 15:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;11.7
+2019-04-12 15:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.7
+2019-04-12 15:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.2
+2019-04-12 15:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.4
+2019-04-12 15:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10
+2019-04-12 15:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.1
+2019-04-12 15:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.4
+2019-04-12 16:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 16:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.4
+2019-04-12 16:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.7
+2019-04-12 16:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.8
+2019-04-12 16:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.9
+2019-04-12 16:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.5
+2019-04-12 16:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.2
+2019-04-12 16:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.8
+2019-04-12 16:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12.6
+2019-04-12 16:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.1
+2019-04-12 16:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.3
+2019-04-12 16:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.2
+2019-04-12 16:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10
+2019-04-12 16:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.1
+2019-04-12 16:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.6
+2019-04-12 17:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 17:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.4
+2019-04-12 17:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.9
+2019-04-12 17:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.7
+2019-04-12 17:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;10
+2019-04-12 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.2
+2019-04-12 17:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.2
+2019-04-12 17:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.8
+2019-04-12 17:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12.9
+2019-04-12 17:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.4
+2019-04-12 17:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.5
+2019-04-12 17:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9.1
+2019-04-12 17:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.1
+2019-04-12 17:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10.1
+2019-04-12 17:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.6
+2019-04-12 18:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 18:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.4
+2019-04-12 18:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.7
+2019-04-12 18:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.6
+2019-04-12 18:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.8
+2019-04-12 18:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.9
+2019-04-12 18:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8.1
+2019-04-12 18:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.7
+2019-04-12 18:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12.4
+2019-04-12 18:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.7
+2019-04-12 18:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.6
+2019-04-12 18:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;9
+2019-04-12 18:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10
+2019-04-12 18:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.1
+2019-04-12 18:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.7
+2019-04-12 19:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 19:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.4
+2019-04-12 19:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.7
+2019-04-12 19:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.8
+2019-04-12 19:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.6
+2019-04-12 19:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.9
+2019-04-12 19:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8
+2019-04-12 19:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.7
+2019-04-12 19:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12.4
+2019-04-12 19:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.8
+2019-04-12 19:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.6
+2019-04-12 19:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;8.8
+2019-04-12 19:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10
+2019-04-12 19:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.2
+2019-04-12 19:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.6
+2019-04-12 20:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 20:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.4
+2019-04-12 20:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.1
+2019-04-12 20:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.7
+2019-04-12 20:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.4
+2019-04-12 20:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.9
+2019-04-12 20:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;8
+2019-04-12 20:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.6
+2019-04-12 20:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;11.8
+2019-04-12 20:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.9
+2019-04-12 20:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.6
+2019-04-12 20:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;8.6
+2019-04-12 20:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;10
+2019-04-12 20:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.2
+2019-04-12 20:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.5
+2019-04-12 21:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 21:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.4
+2019-04-12 21:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.1
+2019-04-12 21:05:09;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.6
+2019-04-12 21:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.3
+2019-04-12 21:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.8
+2019-04-12 21:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.9
+2019-04-12 21:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.3
+2019-04-12 21:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;11.1
+2019-04-12 21:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.8
+2019-04-12 21:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;8.6
+2019-04-12 21:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.7
+2019-04-12 21:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.9
+2019-04-12 21:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.2
+2019-04-12 21:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.4
+2019-04-12 22:00:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.7
+2019-04-12 22:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 22:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.4
+2019-04-12 22:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.3
+2019-04-12 22:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.4
+2019-04-12 22:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.3
+2019-04-12 22:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.8
+2019-04-12 22:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.8
+2019-04-12 22:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.9
+2019-04-12 22:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.5
+2019-04-12 22:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.6
+2019-04-12 22:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;8.6
+2019-04-12 22:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.9
+2019-04-12 22:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.1
+2019-04-12 22:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8.2
+2019-04-12 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-12 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.4
+2019-04-12 23:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.3
+2019-04-12 23:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.5
+2019-04-12 23:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.3
+2019-04-12 23:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.7
+2019-04-12 23:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.6
+2019-04-12 23:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.5
+2019-04-12 23:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10
+2019-04-12 23:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5
+2019-04-12 23:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;8.6
+2019-04-12 23:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.7
+2019-04-12 23:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.9
+2019-04-12 23:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.1
+2019-04-12 23:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;8
+2019-04-13 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-13 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;9.2
+2019-04-13 00:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.3
+2019-04-13 00:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.4
+2019-04-13 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;0.1
+2019-04-13 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;8.9
+2019-04-13 01:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.4
+2019-04-13 01:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.3
+2019-04-13 01:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;9.5
+2019-04-13 01:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;9.6
+2019-04-13 01:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;7.4
+2019-04-13 01:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6.8
+2019-04-13 01:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.8
+2019-04-13 01:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.1
+2019-04-13 01:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;8.7
+2019-04-13 01:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;8.7
+2019-04-13 01:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;9.6
+2019-04-13 01:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;10.1
+2019-04-13 01:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;7.7
+2019-04-13 02:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;6.3
+2019-04-13 02:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;7.3
