@@ -46791,6 +46791,7 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2019-05-10 00:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.1
 2019-05-10 00:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.3
 2019-05-10 00:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.9
+2019-05-10 01:00:00;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;7.6
 2019-05-10 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;21.8
 2019-05-10 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.6
 2019-05-10 01:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.6
@@ -46811,5 +46812,488 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2019-05-10 01:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.2
 2019-05-10 01:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.3
 2019-05-10 01:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.8
+2019-05-10 02:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;21.8
+2019-05-10 02:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.6
 2019-05-10 02:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.6
 2019-05-10 02:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.4
+2019-05-10 02:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;14.3
+2019-05-10 02:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.4
+2019-05-10 02:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;21.5
+2019-05-10 02:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;21.9
+2019-05-10 02:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.1
+2019-05-10 02:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.9
+2019-05-10 02:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.6
+2019-05-10 02:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.5
+2019-05-10 02:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.3
+2019-05-10 02:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10
+2019-05-10 02:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.6
+2019-05-10 02:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.9
+2019-05-10 02:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.4
+2019-05-10 02:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.2
+2019-05-10 02:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.4
+2019-05-10 02:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.6
+2019-05-10 02:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;21.8
+2019-05-10 02:25:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.6
+2019-05-10 03:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.5
+2019-05-10 03:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.4
+2019-05-10 03:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.9
+2019-05-10 03:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.6
+2019-05-10 03:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.5
+2019-05-10 03:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.2
+2019-05-10 03:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.6
+2019-05-10 03:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.1
+2019-05-10 03:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.8
+2019-05-10 03:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.4
+2019-05-10 03:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.2
+2019-05-10 03:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.4
+2019-05-10 03:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.5
+2019-05-10 03:14:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;14.2
+2019-05-10 03:14:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.4
+2019-05-10 03:14:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;21.4
+2019-05-10 03:14:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;21.8
+2019-05-10 03:14:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;8.8
+2019-05-10 04:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;21.8
+2019-05-10 04:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.6
+2019-05-10 04:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.5
+2019-05-10 04:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.4
+2019-05-10 04:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;14.1
+2019-05-10 04:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.3
+2019-05-10 04:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;21.5
+2019-05-10 04:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;21.8
+2019-05-10 04:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;8.8
+2019-05-10 04:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.9
+2019-05-10 04:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.4
+2019-05-10 04:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.5
+2019-05-10 04:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.1
+2019-05-10 04:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.3
+2019-05-10 04:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.9
+2019-05-10 04:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.7
+2019-05-10 04:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.4
+2019-05-10 04:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.2
+2019-05-10 04:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-10 04:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.5
+2019-05-10 05:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;21.8
+2019-05-10 05:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2019-05-10 05:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.4
+2019-05-10 05:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.4
+2019-05-10 05:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;14
+2019-05-10 05:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.3
+2019-05-10 05:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;21.4
+2019-05-10 05:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;21.9
+2019-05-10 05:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;8.9
+2019-05-10 05:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.9
+2019-05-10 05:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.3
+2019-05-10 05:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.5
+2019-05-10 05:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7
+2019-05-10 05:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9
+2019-05-10 05:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.6
+2019-05-10 05:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.6
+2019-05-10 05:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.4
+2019-05-10 05:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.3
+2019-05-10 05:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-10 05:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.4
+2019-05-10 06:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;21.8
+2019-05-10 06:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2019-05-10 06:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.4
+2019-05-10 06:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.4
+2019-05-10 06:09:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;14
+2019-05-10 06:09:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.3
+2019-05-10 06:09:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;21.5
+2019-05-10 06:09:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;21.9
+2019-05-10 06:09:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;8.9
+2019-05-10 06:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.9
+2019-05-10 06:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.2
+2019-05-10 06:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.5
+2019-05-10 06:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7
+2019-05-10 06:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.7
+2019-05-10 06:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.5
+2019-05-10 06:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.4
+2019-05-10 06:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.3
+2019-05-10 06:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-10 06:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.4
+2019-05-10 07:04:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;21.8
+2019-05-10 07:04:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2019-05-10 07:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.3
+2019-05-10 07:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.4
+2019-05-10 07:09:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.9
+2019-05-10 07:09:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.4
+2019-05-10 07:09:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;21.5
+2019-05-10 07:09:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;21.9
+2019-05-10 07:09:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.1
+2019-05-10 07:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.9
+2019-05-10 07:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.1
+2019-05-10 07:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.5
+2019-05-10 07:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6.9
+2019-05-10 07:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.5
+2019-05-10 07:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.4
+2019-05-10 07:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.2
+2019-05-10 07:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.2
+2019-05-10 07:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.3
+2019-05-10 07:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-10 07:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.3
+2019-05-10 07:27:41;112;Freibad;Freibad;An der Schwarz;Rüti;8630;ZH;259;Schwimmbecken;Freibad;14
+2019-05-10 07:27:42;112;Freibad;Freibad;An der Schwarz;Rüti;8630;ZH;260;Freizeitbecken;Freibad;14
+2019-05-10 07:27:42;112;Freibad;Freibad;An der Schwarz;Rüti;8630;ZH;261;Planschbecken;Freibad;14
+2019-05-10 07:27:42;112;Freibad;Freibad;An der Schwarz;Rüti;8630;ZH;262;Sprungturm;Freibad;14
+2019-05-10 07:27:48;112;Freibad;Freibad;An der Schwarz;Rüti;8630;ZH;259;Schwimmbecken;Freibad;14
+2019-05-10 07:27:48;112;Freibad;Freibad;An der Schwarz;Rüti;8630;ZH;260;Freizeitbecken;Freibad;14
+2019-05-10 07:27:48;112;Freibad;Freibad;An der Schwarz;Rüti;8630;ZH;261;Planschbecken;Freibad;14
+2019-05-10 07:27:48;112;Freibad;Freibad;An der Schwarz;Rüti;8630;ZH;262;Sprungturm;Freibad;14
+2019-05-10 07:51:28;110;Schwimmbad;Schwimmbad Rupperswil - Auenstein;Werkstrasse 1;Auenstein;5105;AG;257;Schwimmbecken;Freibad;19.1
+2019-05-10 08:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;20.7
+2019-05-10 08:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2019-05-10 08:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;10.9
+2019-05-10 08:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.3
+2019-05-10 08:09:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.8
+2019-05-10 08:09:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.4
+2019-05-10 08:09:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;21.6
+2019-05-10 08:09:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;21.9
+2019-05-10 08:09:55;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.1
+2019-05-10 08:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.9
+2019-05-10 08:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11
+2019-05-10 08:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.5
+2019-05-10 08:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;6.9
+2019-05-10 08:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.4
+2019-05-10 08:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.4
+2019-05-10 08:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.2
+2019-05-10 08:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.2
+2019-05-10 08:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.4
+2019-05-10 08:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-10 08:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.3
+2019-05-10 08:23:33;6;Stadtberner Bäder;Sportamt der Stadt Bern;Effingerstrasse 21 / Postfach 8125;Bern;3001;BE;26;Ka-We-De;Freibad;13.3
+2019-05-10 08:28:30;13;Schwimm- und Sonnenbad;Schwimmbad Langenthal;Rumiweg 63;Langenthal;4900;BE;39;Schwimmbecken;Freibad;13
+2019-05-10 08:28:30;13;Schwimm- und Sonnenbad;Schwimmbad Langenthal;Rumiweg 63;Langenthal;4900;BE;41;Nichtschwimmerbecken;Freibad;14
+2019-05-10 08:31:39;59;Hirzenfeld;Sportzentrum Hirzenfeld;Radiostrasse 53;Münchenbuchsee;3053;BE;160;Schwimmerbecken (50m);Freibad;16
+2019-05-10 08:31:39;59;Hirzenfeld;Sportzentrum Hirzenfeld;Radiostrasse 53;Münchenbuchsee;3053;BE;161;Planschbecken;Freibad;16
+2019-05-10 08:31:39;59;Hirzenfeld;Sportzentrum Hirzenfeld;Radiostrasse 53;Münchenbuchsee;3053;BE;162;Kinderbecken;Freibad;16
+2019-05-10 08:38:23;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;294;Schwimmbecken;Freibad;21
+2019-05-10 08:38:23;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;295;Aare;Fluss;9
+2019-05-10 08:51:36;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;437;Schwimmerbecken (50m);Freibad;15
+2019-05-10 08:51:36;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;438;Nichtschwimmerbecken;Freibad;15
+2019-05-10 08:51:36;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;439;Sprungbucht;Freibad;15
+2019-05-10 09:01:39;12;Freibad;Badi Kirchberg;Obere Schache 9;Kirchberg;3422;BE;38;Schwimmbecken;Freibad;13
+2019-05-10 09:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;20.7
+2019-05-10 09:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2019-05-10 09:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11
+2019-05-10 09:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.4
+2019-05-10 09:09:54;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;13.8
+2019-05-10 09:09:54;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.4
+2019-05-10 09:09:54;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;21.7
+2019-05-10 09:09:54;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22
+2019-05-10 09:09:54;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.4
+2019-05-10 09:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11
+2019-05-10 09:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11
+2019-05-10 09:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.6
+2019-05-10 09:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7
+2019-05-10 09:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.4
+2019-05-10 09:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.4
+2019-05-10 09:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.2
+2019-05-10 09:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.2
+2019-05-10 09:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.4
+2019-05-10 09:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-10 09:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.4
+2019-05-10 09:28:26;6;Stadtberner Bäder;Sportamt der Stadt Bern;Effingerstrasse 21 / Postfach 8125;Bern;3001;BE;27;Wyler;Freibad;15
+2019-05-10 09:59:03;35;Schwimmbad;Schwimmbad Roggwil / BE;Schwimmbadweg 15;Roggwil;4914;BE;104;Schwimmerbecken;Freibad;12.3
+2019-05-10 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;20.1
+2019-05-10 10:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10
+2019-05-10 10:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.1
+2019-05-10 10:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.4
+2019-05-10 10:09:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;14.1
+2019-05-10 10:09:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.4
+2019-05-10 10:09:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;21.7
+2019-05-10 10:09:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22
+2019-05-10 10:09:53;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.3
+2019-05-10 10:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;10.9
+2019-05-10 10:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11
+2019-05-10 10:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.6
+2019-05-10 10:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;7.3
+2019-05-10 10:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.4
+2019-05-10 10:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;4.6
+2019-05-10 10:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.2
+2019-05-10 10:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.3
+2019-05-10 10:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.4
+2019-05-10 10:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.5
+2019-05-10 10:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.5
+2019-05-10 10:44:10;191;Schwimmbad;Schwimmbad Arbon;Wassergasse 6;Arbon;9320;TG;395;Schwimmbad;Freibad;18
+2019-05-10 10:44:10;191;Schwimmbad;Schwimmbad Arbon;Wassergasse 6;Arbon;9320;TG;396;Bodensee;See;10.4
+2019-05-10 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;20.7
+2019-05-10 11:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.5
+2019-05-10 11:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.2
+2019-05-10 11:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.4
+2019-05-10 11:09:49;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;14.2
+2019-05-10 11:09:49;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.3
+2019-05-10 11:09:49;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;21.8
+2019-05-10 11:09:49;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22
+2019-05-10 11:09:49;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.5
+2019-05-10 11:49:04;196;Seebad;Uferweg 7;;Uster;8610;ZH;401;Greifensee;See;12.2
+2019-05-10 11:49:04;196;Seebad;Uferweg 7;;Uster;8610;ZH;402;Schwimmbecken;Freibad;13
+2019-05-10 12:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;20.7
+2019-05-10 12:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.6
+2019-05-10 12:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.2
+2019-05-10 12:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.4
+2019-05-10 12:09:51;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;14.5
+2019-05-10 12:09:51;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.1
+2019-05-10 12:09:51;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22
+2019-05-10 12:09:51;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.1
+2019-05-10 12:09:51;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.8
+2019-05-10 12:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11
+2019-05-10 12:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.4
+2019-05-10 12:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.9
+2019-05-10 12:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8
+2019-05-10 12:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;8.8
+2019-05-10 12:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;5.7
+2019-05-10 12:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.4
+2019-05-10 12:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.5
+2019-05-10 12:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.4
+2019-05-10 12:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.6
+2019-05-10 12:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.9
+2019-05-10 12:40:10;42;Hallen-, Frei und Sprudelbad;Hallen-,Frei-und Sprudelbad;Schlossmühlestrasse 26;Frauenfeld;8500;TG;123;Sportschwimmbecken (50m);Freibad;22
+2019-05-10 12:40:15;42;Hallen-, Frei und Sprudelbad;Hallen-,Frei-und Sprudelbad;Schlossmühlestrasse 26;Frauenfeld;8500;TG;123;Sportschwimmbecken (50m);Freibad;22
+2019-05-10 13:00:00;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;8.5
+2019-05-10 13:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;21.2
+2019-05-10 13:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.6
+2019-05-10 13:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.2
+2019-05-10 13:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.4
+2019-05-10 13:09:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;14.8
+2019-05-10 13:09:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.3
+2019-05-10 13:09:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.1
+2019-05-10 13:09:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.2
+2019-05-10 13:09:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.8
+2019-05-10 13:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.1
+2019-05-10 13:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.5
+2019-05-10 13:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;10.1
+2019-05-10 13:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.7
+2019-05-10 13:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.3
+2019-05-10 13:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;6.3
+2019-05-10 13:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.6
+2019-05-10 13:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.7
+2019-05-10 13:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.4
+2019-05-10 13:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.7
+2019-05-10 13:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.2
+2019-05-10 14:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;21.2
+2019-05-10 14:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.9
+2019-05-10 14:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.5
+2019-05-10 14:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.5
+2019-05-10 14:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.2
+2019-05-10 14:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.5
+2019-05-10 14:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;10.2
+2019-05-10 14:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;9.5
+2019-05-10 14:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;9.9
+2019-05-10 14:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;6.9
+2019-05-10 14:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.6
+2019-05-10 14:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.8
+2019-05-10 14:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-10 14:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.7
+2019-05-10 14:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.6
+2019-05-10 14:14:43;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;15.8
+2019-05-10 14:14:43;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.5
+2019-05-10 14:14:43;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.2
+2019-05-10 14:14:43;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.3
+2019-05-10 14:14:43;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.8
+2019-05-10 14:35:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;20.7
+2019-05-10 14:35:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11
+2019-05-10 15:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.9
+2019-05-10 15:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.6
+2019-05-10 15:09:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;16
+2019-05-10 15:09:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;19.7
+2019-05-10 15:09:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.4
+2019-05-10 15:09:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.6
+2019-05-10 15:09:46;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;10
+2019-05-10 15:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.3
+2019-05-10 15:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.3
+2019-05-10 15:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;10.1
+2019-05-10 15:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;10.1
+2019-05-10 15:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.7
+2019-05-10 15:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.5
+2019-05-10 15:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.8
+2019-05-10 15:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.7
+2019-05-10 15:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-10 15:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.7
+2019-05-10 15:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.7
+2019-05-10 16:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.4
+2019-05-10 16:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12
+2019-05-10 16:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.4
+2019-05-10 16:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.5
+2019-05-10 16:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;10
+2019-05-10 16:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;10.4
+2019-05-10 16:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;11.3
+2019-05-10 16:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.6
+2019-05-10 16:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;9.9
+2019-05-10 16:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.8
+2019-05-10 16:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-10 16:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.7
+2019-05-10 16:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;11
+2019-05-10 16:14:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;16.1
+2019-05-10 16:14:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;20
+2019-05-10 16:14:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.5
+2019-05-10 16:14:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.8
+2019-05-10 16:14:45;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.9
+2019-05-10 17:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.5
+2019-05-10 17:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12.1
+2019-05-10 17:09:43;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;16.3
+2019-05-10 17:09:43;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;20.1
+2019-05-10 17:09:43;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.7
+2019-05-10 17:09:43;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.8
+2019-05-10 17:09:43;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;10.1
+2019-05-10 17:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.5
+2019-05-10 17:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.7
+2019-05-10 17:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;10
+2019-05-10 17:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;10.9
+2019-05-10 17:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12
+2019-05-10 17:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;8.1
+2019-05-10 17:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;10
+2019-05-10 17:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.8
+2019-05-10 17:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.6
+2019-05-10 17:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.7
+2019-05-10 17:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;11.2
+2019-05-10 18:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;22.3
+2019-05-10 18:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.6
+2019-05-10 18:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.5
+2019-05-10 18:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12.4
+2019-05-10 18:09:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;16.4
+2019-05-10 18:09:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;20.1
+2019-05-10 18:09:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.6
+2019-05-10 18:09:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.8
+2019-05-10 18:09:58;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.9
+2019-05-10 18:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.7
+2019-05-10 18:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.8
+2019-05-10 18:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.9
+2019-05-10 18:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;10.9
+2019-05-10 18:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12.2
+2019-05-10 18:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;8.5
+2019-05-10 18:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;10.1
+2019-05-10 18:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.6
+2019-05-10 18:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.6
+2019-05-10 18:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.7
+2019-05-10 18:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;11.2
+2019-05-10 19:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;22.3
+2019-05-10 19:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.2
+2019-05-10 19:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.2
+2019-05-10 19:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12.4
+2019-05-10 19:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;16.5
+2019-05-10 19:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;20.1
+2019-05-10 19:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.6
+2019-05-10 19:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.7
+2019-05-10 19:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.9
+2019-05-10 19:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.7
+2019-05-10 19:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.9
+2019-05-10 19:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.8
+2019-05-10 19:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;10.5
+2019-05-10 19:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12.2
+2019-05-10 19:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;9.1
+2019-05-10 19:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;10.1
+2019-05-10 19:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.6
+2019-05-10 19:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.6
+2019-05-10 19:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.7
+2019-05-10 19:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;11
+2019-05-10 20:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;22.3
+2019-05-10 20:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.2
+2019-05-10 20:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.5
+2019-05-10 20:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12.2
+2019-05-10 20:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;16.6
+2019-05-10 20:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;20.3
+2019-05-10 20:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.7
+2019-05-10 20:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.8
+2019-05-10 20:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;9.9
+2019-05-10 20:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.7
+2019-05-10 20:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.9
+2019-05-10 20:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.8
+2019-05-10 20:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;10.2
+2019-05-10 20:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12.1
+2019-05-10 20:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;9.2
+2019-05-10 20:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;10.3
+2019-05-10 20:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.5
+2019-05-10 20:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.6
+2019-05-10 20:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.7
+2019-05-10 20:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.7
+2019-05-10 21:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;22.3
+2019-05-10 21:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11
+2019-05-10 21:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.5
+2019-05-10 21:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12.1
+2019-05-10 21:09:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;16.5
+2019-05-10 21:09:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;20.6
+2019-05-10 21:09:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.8
+2019-05-10 21:09:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.8
+2019-05-10 21:09:44;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;10.1
+2019-05-10 21:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.7
+2019-05-10 21:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;12
+2019-05-10 21:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.8
+2019-05-10 21:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;9.9
+2019-05-10 21:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;12
+2019-05-10 21:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;8.9
+2019-05-10 21:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;10.4
+2019-05-10 21:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.5
+2019-05-10 21:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-10 21:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.6
+2019-05-10 21:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10.4
+2019-05-10 22:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;22.3
+2019-05-10 22:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.8
+2019-05-10 22:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.5
+2019-05-10 22:05:06;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12
+2019-05-10 22:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;16.4
+2019-05-10 22:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;20.6
+2019-05-10 22:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.8
+2019-05-10 22:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.8
+2019-05-10 22:09:59;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;10.1
+2019-05-10 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;22.3
+2019-05-10 23:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.2
+2019-05-10 23:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.2
+2019-05-10 23:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12.1
+2019-05-10 23:09:42;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;16.3
+2019-05-10 23:09:42;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;20.7
+2019-05-10 23:09:42;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.8
+2019-05-10 23:09:42;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.8
+2019-05-10 23:09:42;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;10.2
+2019-05-10 23:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.8
+2019-05-10 23:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.9
+2019-05-10 23:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.6
+2019-05-10 23:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;9.3
+2019-05-10 23:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;11.5
+2019-05-10 23:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.9
+2019-05-10 23:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;10.5
+2019-05-10 23:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.5
+2019-05-10 23:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.4
+2019-05-10 23:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.6
+2019-05-10 23:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;10
+2019-05-11 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;22.3
+2019-05-11 00:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.3
+2019-05-11 00:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12
+2019-05-11 00:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.9
+2019-05-11 00:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;16.2
+2019-05-11 00:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;20.7
+2019-05-11 00:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.8
+2019-05-11 00:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.9
+2019-05-11 00:09:57;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;10.2
+2019-05-11 00:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.7
+2019-05-11 00:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.9
+2019-05-11 00:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.7
+2019-05-11 00:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;9.1
+2019-05-11 00:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;11.2
+2019-05-11 00:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;7.1
+2019-05-11 00:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;10.5
+2019-05-11 00:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.6
+2019-05-11 00:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-11 00:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.6
+2019-05-11 00:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.9
+2019-05-11 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;22.3
+2019-05-11 01:05:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.1
+2019-05-11 01:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12
+2019-05-11 01:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.9
+2019-05-11 01:09:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;16
+2019-05-11 01:09:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;20.6
+2019-05-11 01:09:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;22.8
+2019-05-11 01:09:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;22.9
+2019-05-11 01:09:56;5;Frei- und Seebad;Freibad / Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;10.1
+2019-05-11 01:10:00;124;Aare;;;Hagneck;2575;BE;288;Aare;Fluss;11.4
+2019-05-11 01:10:00;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;11.9
+2019-05-11 01:10:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;9.8
+2019-05-11 01:10:00;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;8.9
+2019-05-11 01:10:00;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;10.9
+2019-05-11 01:10:00;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;6.6
+2019-05-11 01:10:00;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;10.5
+2019-05-11 01:10:00;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;10.6
+2019-05-11 01:10:00;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;11.5
+2019-05-11 01:10:00;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;11.6
+2019-05-11 01:10:00;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;9.8
+2019-05-11 02:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.9
+2019-05-11 02:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.6
