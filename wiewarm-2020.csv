@@ -9282,5 +9282,101 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2020-04-10 01:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.9
 2020-04-10 01:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.1
 2020-04-10 01:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12.1
+2020-04-10 02:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;15.7
+2020-04-10 02:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.5
 2020-04-10 02:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.2
 2020-04-10 02:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.3
+2020-04-10 03:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;15.1
+2020-04-10 03:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.4
+2020-04-10 03:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.2
+2020-04-10 03:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10.6
+2020-04-10 04:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;15.1
+2020-04-10 04:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.9
+2020-04-10 04:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.1
+2020-04-10 04:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;10
+2020-04-10 05:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14.5
+2020-04-10 05:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.1
+2020-04-10 05:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.1
+2020-04-10 05:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.4
+2020-04-10 06:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14.5
+2020-04-10 06:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.1
+2020-04-10 06:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.8
+2020-04-10 06:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;9.1
+2020-04-10 07:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14
+2020-04-10 07:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.8
+2020-04-10 07:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11
+2020-04-10 07:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;8.4
+2020-04-10 08:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14
+2020-04-10 08:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.8
+2020-04-10 08:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.6
+2020-04-10 08:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12.7
+2020-04-10 09:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14
+2020-04-10 09:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.4
+2020-04-10 09:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.2
+2020-04-10 09:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.8
+2020-04-10 10:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14
+2020-04-10 10:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.2
+2020-04-10 10:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.6
+2020-04-10 10:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12.8
+2020-04-10 11:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14.5
+2020-04-10 11:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.7
+2020-04-10 11:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.6
+2020-04-10 11:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;13
+2020-04-10 12:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;14.5
+2020-04-10 12:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11
+2020-04-10 12:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.7
+2020-04-10 12:05:05;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;13.7
+2020-04-10 13:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;15.7
+2020-04-10 13:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.2
+2020-04-10 13:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12
+2020-04-10 13:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;18.3
+2020-04-10 14:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;16.2
+2020-04-10 14:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.5
+2020-04-10 14:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.8
+2020-04-10 14:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;18.8
+2020-04-10 15:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;16.8
+2020-04-10 15:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.6
+2020-04-10 15:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;13
+2020-04-10 15:05:03;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;19.4
+2020-04-10 16:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;17.3
+2020-04-10 16:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.7
+2020-04-10 16:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;13
+2020-04-10 16:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;21.9
+2020-04-10 17:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;17.9
+2020-04-10 17:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.9
+2020-04-10 17:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.8
+2020-04-10 17:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;20.8
+2020-04-10 18:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;17.9
+2020-04-10 18:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;12
+2020-04-10 18:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.7
+2020-04-10 18:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;20.7
+2020-04-10 19:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;17.3
+2020-04-10 19:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;12.1
+2020-04-10 19:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.6
+2020-04-10 19:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;20.5
+2020-04-10 20:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;17.9
+2020-04-10 20:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;12.1
+2020-04-10 20:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.3
+2020-04-10 20:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;19.1
+2020-04-10 21:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;12
+2020-04-10 21:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;17.9
+2020-04-10 21:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;12.1
+2020-04-10 21:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;17.3
+2020-04-10 22:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.7
+2020-04-10 22:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;17.9
+2020-04-10 22:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.9
+2020-04-10 22:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;14.6
+2020-04-10 23:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;17.3
+2020-04-10 23:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11.4
+2020-04-10 23:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.7
+2020-04-10 23:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;13.6
+2020-04-10 23:50:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;17.3
+2020-04-10 23:50:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;10.9
+2020-04-11 00:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.6
+2020-04-11 00:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12.9
+2020-04-11 01:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;17.3
+2020-04-11 01:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;11
+2020-04-11 01:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.7
+2020-04-11 01:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;12.4
+2020-04-11 02:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;11.8
+2020-04-11 02:05:04;14;Zürichsee;;;Zürich;;ZH;44;Mythenquai;See;11.6
