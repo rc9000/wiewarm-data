@@ -21383,9 +21383,882 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2020-06-07 01:51:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.7
 2020-06-07 01:51:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25.1
 2020-06-07 01:51:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.2
+2020-06-07 02:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 02:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.7
 2020-06-07 02:01:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.6
 2020-06-07 02:01:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24
 2020-06-07 02:01:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.8
 2020-06-07 02:01:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25.1
 2020-06-07 02:01:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.2
 2020-06-07 02:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.8
+2020-06-07 02:11:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.6
+2020-06-07 02:11:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24
+2020-06-07 02:11:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.9
+2020-06-07 02:11:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25.2
+2020-06-07 02:11:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.3
+2020-06-07 02:21:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.6
+2020-06-07 02:21:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24
+2020-06-07 02:21:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 02:21:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25.2
+2020-06-07 02:21:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.3
+2020-06-07 02:31:34;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.5
+2020-06-07 02:31:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24.1
+2020-06-07 02:31:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 02:31:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25.1
+2020-06-07 02:31:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.2
+2020-06-07 02:41:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.4
+2020-06-07 02:41:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24
+2020-06-07 02:41:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.7
+2020-06-07 02:41:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25.2
+2020-06-07 02:41:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.3
+2020-06-07 02:51:40;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.4
+2020-06-07 02:51:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24
+2020-06-07 02:51:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 02:51:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 02:51:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 03:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 03:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.7
+2020-06-07 03:01:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.4
+2020-06-07 03:01:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24.1
+2020-06-07 03:01:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 03:01:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25.1
+2020-06-07 03:01:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.2
+2020-06-07 03:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.8
+2020-06-07 03:11:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.3
+2020-06-07 03:11:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24
+2020-06-07 03:11:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.9
+2020-06-07 03:11:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 03:11:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 03:21:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.2
+2020-06-07 03:21:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24
+2020-06-07 03:21:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 03:21:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 03:21:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 03:31:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.2
+2020-06-07 03:31:55;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24
+2020-06-07 03:31:55;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 03:31:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 03:31:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 03:41:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.2
+2020-06-07 03:41:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24
+2020-06-07 03:41:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 03:41:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 03:41:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 03:52:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.1
+2020-06-07 03:52:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 03:52:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 03:52:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 03:52:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 04:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 04:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.7
+2020-06-07 04:02:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.1
+2020-06-07 04:02:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 04:02:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.7
+2020-06-07 04:02:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 04:02:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 04:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.7
+2020-06-07 04:12:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23
+2020-06-07 04:12:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 04:12:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 04:12:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 04:12:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 04:22:10;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23
+2020-06-07 04:22:10;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 04:22:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 04:22:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 04:22:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 04:32:13;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23
+2020-06-07 04:32:13;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 04:32:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 04:32:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 04:32:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 04:42:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.9
+2020-06-07 04:42:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 04:42:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 04:42:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 04:42:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 04:52:19;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.9
+2020-06-07 04:52:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 04:52:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 04:52:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 04:52:21;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 05:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 05:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.7
+2020-06-07 05:02:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.9
+2020-06-07 05:02:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 05:02:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 05:02:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 05:02:24;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 05:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.6
+2020-06-07 05:12:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.7
+2020-06-07 05:12:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24
+2020-06-07 05:12:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 05:12:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 05:12:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 05:22:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.7
+2020-06-07 05:22:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 05:22:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 05:22:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 05:22:30;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;0
+2020-06-07 05:32:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.7
+2020-06-07 05:32:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 05:32:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 05:32:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 05:32:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 05:42:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.7
+2020-06-07 05:42:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 05:42:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 05:42:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 05:42:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 05:52:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.6
+2020-06-07 05:52:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 05:52:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 05:52:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 05:52:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 06:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 06:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.7
+2020-06-07 06:02:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.6
+2020-06-07 06:02:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 06:02:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 06:02:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 06:02:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 06:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.5
+2020-06-07 06:12:44;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.6
+2020-06-07 06:12:44;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 06:12:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 06:12:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 06:12:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 06:22:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.6
+2020-06-07 06:22:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 06:22:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 06:22:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 06:22:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 06:32:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.5
+2020-06-07 06:32:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 06:32:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 06:32:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 06:32:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 06:40:15;196;Seebad;Uferweg 7;;Uster;8610;ZH;401;Greifensee;See;19
+2020-06-07 06:40:15;196;Seebad;Uferweg 7;;Uster;8610;ZH;402;Schwimmbecken;Freibad;16
+2020-06-07 06:40:18;196;Seebad;Uferweg 7;;Uster;8610;ZH;401;Greifensee;See;19
+2020-06-07 06:40:18;196;Seebad;Uferweg 7;;Uster;8610;ZH;402;Schwimmbecken;Freibad;16
+2020-06-07 06:42:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.4
+2020-06-07 06:42:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 06:42:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 06:42:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 06:42:55;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 06:52:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.4
+2020-06-07 06:52:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;24
+2020-06-07 06:52:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 06:52:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 06:52:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 07:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 07:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.7
+2020-06-07 07:03:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.4
+2020-06-07 07:03:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 07:03:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 07:03:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 07:03:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 07:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.3
+2020-06-07 07:08:39;13;Schwimm- und Sonnenbad;Schwimmbad Langenthal;Rumiweg 63;Langenthal;4900;BE;39;Schwimmbecken;Freibad;21
+2020-06-07 07:08:39;13;Schwimm- und Sonnenbad;Schwimmbad Langenthal;Rumiweg 63;Langenthal;4900;BE;41;Nichtschwimmerbecken;Freibad;19
+2020-06-07 07:13:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.3
+2020-06-07 07:13:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 07:13:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 07:13:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 07:13:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 07:23:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.3
+2020-06-07 07:23:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 07:23:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 07:23:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 07:23:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 07:33:09;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.2
+2020-06-07 07:33:09;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 07:33:09;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 07:33:10;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 07:33:10;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 07:43:12;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.2
+2020-06-07 07:43:12;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.8
+2020-06-07 07:43:12;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 07:43:13;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 07:43:13;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 07:50:19;226;Dorfbad;Dorfbad Uster;Florastrasse 22;Uster;8610;ZH;478;Schwimmerbecken;Freibad;18
+2020-06-07 07:50:19;226;Dorfbad;Dorfbad Uster;Florastrasse 22;Uster;8610;ZH;479;Nichtschwimmerbecken;Freibad;18
+2020-06-07 07:50:19;226;Dorfbad;Dorfbad Uster;Florastrasse 22;Uster;8610;ZH;490;Planschbecken;Freibad;18
+2020-06-07 07:53:15;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.2
+2020-06-07 07:53:15;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.9
+2020-06-07 07:53:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 07:53:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 07:53:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 08:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 08:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.5
+2020-06-07 08:03:19;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.2
+2020-06-07 08:03:19;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.8
+2020-06-07 08:03:19;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 08:03:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 08:03:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 08:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.4
+2020-06-07 08:09:28;6;Stadtberner Bäder;Sportamt der Stadt Bern;Effingerstrasse 21 / Postfach 8125;Bern;3001;BE;25;Weyermannshaus;Freibad;18.2
+2020-06-07 08:09:35;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;437;Schwimmerbecken (50m);Freibad;21.5
+2020-06-07 08:09:35;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;438;Nichtschwimmerbecken;Freibad;21.5
+2020-06-07 08:09:35;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;439;Sprungbucht;Freibad;2.5
+2020-06-07 08:09:45;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;437;Schwimmerbecken (50m);Freibad;21.5
+2020-06-07 08:09:45;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;438;Nichtschwimmerbecken;Freibad;21.5
+2020-06-07 08:09:45;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;439;Sprungbucht;Freibad;21.5
+2020-06-07 08:10:34;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;437;Schwimmerbecken (50m);Freibad;21
+2020-06-07 08:10:34;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;438;Nichtschwimmerbecken;Freibad;21
+2020-06-07 08:10:34;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;439;Sprungbucht;Freibad;21
+2020-06-07 08:13:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.2
+2020-06-07 08:13:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.7
+2020-06-07 08:13:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 08:13:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 08:13:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 08:14:53;35;Schwimmbad;Schwimmbad Roggwil / BE;Schwimmbadweg 15;Roggwil;4914;BE;104;Schwimmerbecken;Freibad;18.5
+2020-06-07 08:15:15;38;Badi;Gemeindeverband;Schwimmbad Stämpfel;Nebikon;6244;LU;109;Hauptbecken;Freibad;19
+2020-06-07 08:15:15;38;Badi;Gemeindeverband;Schwimmbad Stämpfel;Nebikon;6244;LU;110;Nichtschwimmerbecken;Freibad;19
+2020-06-07 08:15:24;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;294;Schwimmbecken;Freibad;23.7
+2020-06-07 08:15:25;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;295;Aare;Fluss;17
+2020-06-07 08:17:19;112;Freibad;Freibad;Schwarz 1;Rüti;8630;ZH;259;Schwimmbecken;Freibad;19
+2020-06-07 08:17:19;112;Freibad;Freibad;Schwarz 1;Rüti;8630;ZH;260;Freizeitbecken;Freibad;19
+2020-06-07 08:17:19;112;Freibad;Freibad;Schwarz 1;Rüti;8630;ZH;261;Planschbecken;Freibad;19
+2020-06-07 08:17:20;112;Freibad;Freibad;Schwarz 1;Rüti;8630;ZH;262;Sprungturm;Freibad;19
+2020-06-07 08:23:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22
+2020-06-07 08:23:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.8
+2020-06-07 08:23:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 08:23:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 08:23:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 08:24:25;110;Schwimmbad;Schwimmbad Rupperswil - Auenstein;Werkstrasse 1;Auenstein;5105;AG;257;Schwimmbecken;Freibad;23
+2020-06-07 08:25:19;199;Badi;Badi Steffisburg;Gummweg 50;Steffisburg;3612;BE;407;Kombibecken;Freibad;19.6
+2020-06-07 08:33:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22
+2020-06-07 08:33:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.8
+2020-06-07 08:33:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 08:33:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 08:33:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 08:34:00;15;Schwimmbad;Sportzentrum Worb AG;Sportweg 10;Worb;3076;BE;46;Schwimmbecken;Freibad;19.6
+2020-06-07 08:34:11;15;Schwimmbad;Sportzentrum Worb AG;Sportweg 10;Worb;3076;BE;46;Schwimmbecken;Freibad;19.6
+2020-06-07 08:35:52;63;Freibad;Freibad Ostermundigen;Dennigkofenweg 120;Ostermundigen;3072;BE;172;Schwimmerbecken;Freibad;18
+2020-06-07 08:35:52;63;Freibad;Freibad Ostermundigen;Dennigkofenweg 120;Ostermundigen;3072;BE;173;Nichtschwimmerbecken;Freibad;18
+2020-06-07 08:35:52;63;Freibad;Freibad Ostermundigen;Dennigkofenweg 120;Ostermundigen;3072;BE;174;Planschbecken;Freibad;18
+2020-06-07 08:35:58;63;Freibad;Freibad Ostermundigen;Dennigkofenweg 120;Ostermundigen;3072;BE;172;Schwimmerbecken;Freibad;18
+2020-06-07 08:35:58;63;Freibad;Freibad Ostermundigen;Dennigkofenweg 120;Ostermundigen;3072;BE;173;Nichtschwimmerbecken;Freibad;18
+2020-06-07 08:35:58;63;Freibad;Freibad Ostermundigen;Dennigkofenweg 120;Ostermundigen;3072;BE;174;Planschbecken;Freibad;18
+2020-06-07 08:37:09;210;Schwimmbad;Schwimmbad Heiden;Kohlplatz 5;Heiden;9410;AR;433;Schwimmerbecken;Freibad;19.4
+2020-06-07 08:40:15;1;Frei- und Hallenbad;Freibad;;Burgdorf;3400;BE;1;Schwimmbecken;Freibad;20.1
+2020-06-07 08:40:15;1;Frei- und Hallenbad;Freibad;;Burgdorf;3400;BE;127;Hallenbad;Hallenbad;27.5
+2020-06-07 08:40:43;6;Stadtberner Bäder;Sportamt der Stadt Bern;Effingerstrasse 21 / Postfach 8125;Bern;3001;BE;26;Ka-We-De;Freibad;19.9
+2020-06-07 08:43:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22
+2020-06-07 08:43:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.8
+2020-06-07 08:43:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 08:43:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 08:43:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 08:43:47;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;437;Schwimmerbecken (50m);Freibad;22.5
+2020-06-07 08:43:47;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;438;Nichtschwimmerbecken;Freibad;22.5
+2020-06-07 08:43:47;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;439;Sprungbucht;Freibad;22.5
+2020-06-07 08:43:48;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;437;Schwimmerbecken (50m);Freibad;22.5
+2020-06-07 08:43:48;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;438;Nichtschwimmerbecken;Freibad;22.5
+2020-06-07 08:43:48;211;Schwimmbad;Wihaldenstrasse 60;;Hinwil;8340;ZH;439;Sprungbucht;Freibad;22.5
+2020-06-07 08:52:34;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;294;Schwimmbecken;Freibad;23.7
+2020-06-07 08:52:34;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;295;Aare;Fluss;16
+2020-06-07 08:52:34;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;296;Nichtschwimmerbecken;Freibad;23.7
+2020-06-07 08:52:35;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;294;Schwimmbecken;Freibad;23.7
+2020-06-07 08:52:35;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;295;Aare;Fluss;16
+2020-06-07 08:52:35;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;296;Nichtschwimmerbecken;Freibad;23.7
+2020-06-07 08:53:06;101;Inselibad;Inselistrasse 15;;Konolfingen;3510;BE;233;50-Meter Becken;Freibad;18.8
+2020-06-07 08:53:06;101;Inselibad;Inselistrasse 15;;Konolfingen;3510;BE;234;Nichtschwimmerbecken;Freibad;18.2
+2020-06-07 08:53:34;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.9
+2020-06-07 08:53:34;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.7
+2020-06-07 08:53:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 08:53:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 08:53:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 08:54:53;205;Regio Badi Sense;Gillenauweg 40;;Laupen;3177;BE;421;Schwimmerbecken (50m);Freibad;19
+2020-06-07 08:54:53;205;Regio Badi Sense;Gillenauweg 40;;Laupen;3177;BE;422;Nichtschwimmerbecken;Freibad;19
+2020-06-07 08:54:53;205;Regio Badi Sense;Gillenauweg 40;;Laupen;3177;BE;423;Kinderplanschbecken;Freibad;19
+2020-06-07 08:54:53;205;Regio Badi Sense;Gillenauweg 40;;Laupen;3177;BE;424;Sprungbecken;Freibad;19
+2020-06-07 09:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 09:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.3
+2020-06-07 09:03:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.9
+2020-06-07 09:03:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.7
+2020-06-07 09:03:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 09:03:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 09:03:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 09:03:55;61;Aarebad;Aarebad;Kriegliweg;Muri;3074;BE;168;Schwimmerbecken;Freibad;18
+2020-06-07 09:03:55;61;Aarebad;Aarebad;Kriegliweg;Muri;3074;BE;169;Aare;Fluss;15.4
+2020-06-07 09:04:17;30;Freibad;Schwimmmbad Uetendorf;Riedernstrasse:25;Uetendorf;3661;BE;95;Schwimmerbecken;Freibad;19.5
+2020-06-07 09:04:17;30;Freibad;Schwimmmbad Uetendorf;Riedernstrasse:25;Uetendorf;3661;BE;96;Planschbecken;Freibad;19.5
+2020-06-07 09:05:05;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.4
+2020-06-07 09:13:40;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.9
+2020-06-07 09:13:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.7
+2020-06-07 09:13:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-07 09:13:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 09:13:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 09:23:43;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.8
+2020-06-07 09:23:44;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.7
+2020-06-07 09:23:44;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-07 09:23:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 09:23:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 09:33:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.7
+2020-06-07 09:33:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.7
+2020-06-07 09:33:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 09:33:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 09:33:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 09:37:54;20;Hallen, Schwimm- und Strandbad;Lausannestrasse 2;Postfach 164;Murten;3280;FR;61;Murtensee;See;18
+2020-06-07 09:37:54;20;Hallen, Schwimm- und Strandbad;Lausannestrasse 2;Postfach 164;Murten;3280;FR;62;Schwimmerbecken;Freibad;18.5
+2020-06-07 09:37:55;20;Hallen, Schwimm- und Strandbad;Lausannestrasse 2;Postfach 164;Murten;3280;FR;63;Nichtschwimmerbecken;Freibad;18.5
+2020-06-07 09:37:55;20;Hallen, Schwimm- und Strandbad;Lausannestrasse 2;Postfach 164;Murten;3280;FR;126;Hallenbad;Hallenbad;27
+2020-06-07 09:38:04;20;Hallen, Schwimm- und Strandbad;Lausannestrasse 2;Postfach 164;Murten;3280;FR;61;Murtensee;See;18
+2020-06-07 09:38:04;20;Hallen, Schwimm- und Strandbad;Lausannestrasse 2;Postfach 164;Murten;3280;FR;62;Schwimmerbecken;Freibad;18.5
+2020-06-07 09:38:04;20;Hallen, Schwimm- und Strandbad;Lausannestrasse 2;Postfach 164;Murten;3280;FR;63;Nichtschwimmerbecken;Freibad;18.5
+2020-06-07 09:38:04;20;Hallen, Schwimm- und Strandbad;Lausannestrasse 2;Postfach 164;Murten;3280;FR;126;Hallenbad;Hallenbad;27
+2020-06-07 09:43:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.8
+2020-06-07 09:43:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.6
+2020-06-07 09:43:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 09:43:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 09:43:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 09:46:11;6;Stadtberner Bäder;Sportamt der Stadt Bern;Effingerstrasse 21 / Postfach 8125;Bern;3001;BE;27;Wyler;Freibad;21
+2020-06-07 09:53:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.8
+2020-06-07 09:53:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.6
+2020-06-07 09:53:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 09:53:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 09:53:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 09:56:35;67;Strandbad;Strandbad;Seestrasse 246;Küsnacht;8700;ZH;180;Seebad;See;18
+2020-06-07 09:56:51;65;Kusenbad;Badhausweg 2;;Küsnacht;8700;ZH;177;Seebad;See;18
+2020-06-07 10:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 10:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.1
+2020-06-07 10:03:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.7
+2020-06-07 10:03:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.6
+2020-06-07 10:03:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 10:03:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 10:03:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 10:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.3
+2020-06-07 10:14:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.7
+2020-06-07 10:14:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.5
+2020-06-07 10:14:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 10:14:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 10:14:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 10:24:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.7
+2020-06-07 10:24:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.6
+2020-06-07 10:24:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-07 10:24:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.6
+2020-06-07 10:24:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 10:34:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 10:34:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.5
+2020-06-07 10:34:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 10:34:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.4
+2020-06-07 10:34:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.6
+2020-06-07 10:44:10;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 10:44:10;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.5
+2020-06-07 10:44:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 10:44:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.4
+2020-06-07 10:44:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.5
+2020-06-07 10:44:26;64;Lido / Hallenbad;Hertensteinstrasse 45;;Weggis;6353;LU;175;Schwimmbecken;Hallenbad;29
+2020-06-07 10:44:29;64;Lido / Hallenbad;Hertensteinstrasse 45;;Weggis;6353;LU;175;Schwimmbecken;Hallenbad;29
+2020-06-07 10:44:37;64;Lido / Hallenbad;Hertensteinstrasse 45;;Weggis;6353;LU;175;Schwimmbecken;Hallenbad;29
+2020-06-07 10:48:01;64;Lido / Hallenbad;Hertensteinstrasse 45;;Weggis;6353;LU;175;Schwimmbecken;Hallenbad;29
+2020-06-07 10:54:13;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 10:54:13;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-07 10:54:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 10:54:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.3
+2020-06-07 10:54:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.4
+2020-06-07 11:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 11:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.1
+2020-06-07 11:04:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 11:04:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-07 11:04:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 11:04:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 11:04:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 11:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.3
+2020-06-07 11:14:19;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.7
+2020-06-07 11:14:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-07 11:14:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 11:14:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 11:14:21;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 11:24:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.7
+2020-06-07 11:24:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 11:24:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16
+2020-06-07 11:24:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.7
+2020-06-07 11:24:24;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 11:34:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 11:34:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 11:34:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16
+2020-06-07 11:34:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.7
+2020-06-07 11:34:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 11:42:33;67;Strandbad;Strandbad;Seestrasse 246;Küsnacht;8700;ZH;180;Seebad;See;18
+2020-06-07 11:42:49;65;Kusenbad;Badhausweg 2;;Küsnacht;8700;ZH;177;Seebad;See;18
+2020-06-07 11:43:27;65;Kusenbad;Badhausweg 2;;Küsnacht;8700;ZH;177;Seebad;See;18
+2020-06-07 11:44:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 11:44:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 11:44:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 11:44:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.7
+2020-06-07 11:44:30;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 11:51:44;199;Badi;Badi Steffisburg;Gummweg 50;Steffisburg;3612;BE;407;Kombibecken;Freibad;19.7
+2020-06-07 11:54:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 11:54:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 11:54:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 11:54:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.7
+2020-06-07 11:54:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 12:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 12:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.1
+2020-06-07 12:04:34;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 12:04:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 12:04:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 12:04:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.7
+2020-06-07 12:04:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 12:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.3
+2020-06-07 12:07:32;210;Schwimmbad;Schwimmbad Heiden;Kohlplatz 5;Heiden;9410;AR;433;Schwimmerbecken;Freibad;19.2
+2020-06-07 12:14:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 12:14:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 12:14:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 12:14:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.7
+2020-06-07 12:14:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 12:24:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 12:24:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 12:24:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 12:24:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.7
+2020-06-07 12:24:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 12:34:44;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.7
+2020-06-07 12:34:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 12:34:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 12:34:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.6
+2020-06-07 12:34:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 12:44:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 12:44:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 12:44:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 12:44:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 12:44:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 12:54:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.7
+2020-06-07 12:54:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.1
+2020-06-07 12:54:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 12:54:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.7
+2020-06-07 12:54:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 13:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 13:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;15.8
+2020-06-07 13:04:55;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 13:04:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23
+2020-06-07 13:04:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 13:04:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 13:04:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 13:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.3
+2020-06-07 13:14:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 13:14:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 13:14:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 13:15:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 13:15:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 13:25:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 13:25:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.1
+2020-06-07 13:25:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 13:25:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 13:25:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 13:35:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 13:35:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.1
+2020-06-07 13:35:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 13:35:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 13:35:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 13:45:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 13:45:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;0
+2020-06-07 13:45:09;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 13:45:09;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 13:45:09;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;23.5
+2020-06-07 13:55:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 13:55:12;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 13:55:12;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 13:55:12;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 13:55:13;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 14:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 14:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;15.7
+2020-06-07 14:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.3
+2020-06-07 14:05:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 14:05:15;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.1
+2020-06-07 14:05:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 14:05:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 14:05:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 14:15:19;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 14:15:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 14:15:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-07 14:15:21;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 14:15:21;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 14:25:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.5
+2020-06-07 14:25:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.1
+2020-06-07 14:25:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 14:25:24;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 14:25:24;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 14:35:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.5
+2020-06-07 14:35:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 14:35:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 14:35:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 14:35:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 14:45:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 14:45:30;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 14:45:30;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 14:45:30;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 14:45:30;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 14:55:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.6
+2020-06-07 14:55:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 14:55:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-07 14:55:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 14:55:34;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 15:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 15:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;15.9
+2020-06-07 15:04:17;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;294;Schwimmbecken;Freibad;23.7
+2020-06-07 15:04:17;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;295;Aare;Fluss;14
+2020-06-07 15:04:17;129;Parkbad;Belpbergstrasse 50;;Münsingen;3110;BE;296;Nichtschwimmerbecken;Freibad;23.7
+2020-06-07 15:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.3
+2020-06-07 15:05:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;21.8
+2020-06-07 15:05:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 15:05:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 15:05:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 15:05:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 15:15:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.1
+2020-06-07 15:15:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 15:15:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 15:15:40;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 15:15:40;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 15:25:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.3
+2020-06-07 15:25:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 15:25:43;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 15:25:43;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 15:25:43;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 15:35:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.4
+2020-06-07 15:35:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 15:35:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 15:35:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 15:35:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 15:45:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.6
+2020-06-07 15:45:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 15:45:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 15:45:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 15:45:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 15:55:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.7
+2020-06-07 15:55:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 15:55:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 15:55:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 15:55:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 16:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 16:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.1
+2020-06-07 16:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.4
+2020-06-07 16:05:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.9
+2020-06-07 16:05:55;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 16:05:55;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 16:05:55;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 16:05:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 16:09:46;6;Stadtberner Bäder;Sportamt der Stadt Bern;Effingerstrasse 21 / Postfach 8125;Bern;3001;BE;25;Weyermannshaus;Freibad;18.3
+2020-06-07 16:15:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.1
+2020-06-07 16:15:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 16:15:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 16:15:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 16:15:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 16:26:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.2
+2020-06-07 16:26:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 16:26:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 16:26:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 16:26:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 16:36:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.3
+2020-06-07 16:36:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 16:36:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 16:36:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 16:36:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 16:46:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.4
+2020-06-07 16:46:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 16:46:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 16:46:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 16:46:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 16:56:10;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.6
+2020-06-07 16:56:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 16:56:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 16:56:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 16:56:12;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 17:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 17:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;15.8
+2020-06-07 17:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.5
+2020-06-07 17:06:13;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.7
+2020-06-07 17:06:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 17:06:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 17:06:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 17:06:15;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 17:16:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.7
+2020-06-07 17:16:18;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 17:16:18;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 17:16:18;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;25
+2020-06-07 17:16:19;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 17:26:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.8
+2020-06-07 17:26:21;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 17:26:21;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 17:26:21;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 17:26:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25.1
+2020-06-07 17:36:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.8
+2020-06-07 17:36:24;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 17:36:24;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 17:36:24;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 17:36:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 17:46:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.9
+2020-06-07 17:46:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 17:46:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 17:46:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 17:46:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 17:56:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.9
+2020-06-07 17:56:30;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 17:56:30;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 17:56:30;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 17:56:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 18:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 18:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16.1
+2020-06-07 18:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.6
+2020-06-07 18:06:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.9
+2020-06-07 18:06:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 18:06:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 18:06:34;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 18:06:34;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 18:16:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.9
+2020-06-07 18:16:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 18:16:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 18:16:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 18:16:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 18:26:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.9
+2020-06-07 18:26:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 18:26:40;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 18:26:40;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 18:26:40;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 18:36:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;24
+2020-06-07 18:36:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.1
+2020-06-07 18:36:43;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 18:36:43;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 18:36:43;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 18:46:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;24
+2020-06-07 18:46:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 18:46:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 18:46:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 18:46:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 18:56:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.9
+2020-06-07 18:56:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 18:56:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 18:56:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 18:56:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 19:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 19:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;16
+2020-06-07 19:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.6
+2020-06-07 19:06:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.9
+2020-06-07 19:06:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.1
+2020-06-07 19:06:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 19:06:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.7
+2020-06-07 19:06:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 19:16:55;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.9
+2020-06-07 19:16:55;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.1
+2020-06-07 19:16:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 19:16:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 19:16:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 19:26:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.9
+2020-06-07 19:26:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.1
+2020-06-07 19:26:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.6
+2020-06-07 19:26:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 19:26:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 19:37:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.8
+2020-06-07 19:37:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23
+2020-06-07 19:37:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.4
+2020-06-07 19:37:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 19:37:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 19:47:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.8
+2020-06-07 19:47:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 19:47:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 19:47:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 19:47:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 19:57:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.7
+2020-06-07 19:57:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 19:57:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-07 19:57:09;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 19:57:09;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 20:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 20:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;15.9
+2020-06-07 20:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.6
+2020-06-07 20:07:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.6
+2020-06-07 20:07:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 20:07:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-07 20:07:12;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 20:07:12;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 20:17:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.6
+2020-06-07 20:17:15;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 20:17:15;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 20:17:15;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 20:17:15;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 20:27:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.6
+2020-06-07 20:27:18;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 20:27:18;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.5
+2020-06-07 20:27:18;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 20:27:18;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 20:37:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.4
+2020-06-07 20:37:21;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 20:37:21;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 20:37:21;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 20:37:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 20:47:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.5
+2020-06-07 20:47:24;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 20:47:24;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 20:47:24;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 20:47:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 20:57:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.4
+2020-06-07 20:57:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 20:57:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 20:57:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 20:57:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 21:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 21:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;15.7
+2020-06-07 21:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.5
+2020-06-07 21:07:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.3
+2020-06-07 21:07:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 21:07:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 21:07:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 21:07:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 21:17:34;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.2
+2020-06-07 21:17:34;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 21:17:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 21:17:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 21:17:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 21:27:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.2
+2020-06-07 21:27:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 21:27:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 21:27:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 21:27:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 21:37:40;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.2
+2020-06-07 21:37:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.2
+2020-06-07 21:37:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 21:37:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 21:37:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 21:47:44;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23
+2020-06-07 21:47:44;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 21:47:44;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 21:47:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 21:47:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 21:57:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23.1
+2020-06-07 21:57:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 21:57:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 21:57:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.7
+2020-06-07 21:57:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.8
+2020-06-07 22:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 22:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;15.7
+2020-06-07 22:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.5
+2020-06-07 22:07:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23
+2020-06-07 22:07:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 22:07:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 22:07:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 22:07:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 22:17:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23
+2020-06-07 22:17:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 22:17:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 22:17:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 22:17:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 22:27:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23
+2020-06-07 22:27:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 22:27:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-07 22:27:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 22:27:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 22:38:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;23
+2020-06-07 22:38:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-07 22:38:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-07 22:38:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 22:38:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 22:48:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.9
+2020-06-07 22:48:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.3
+2020-06-07 22:48:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-07 22:48:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 22:48:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 22:58:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.8
+2020-06-07 22:58:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-07 22:58:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-07 22:58:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 22:58:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 23:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 23:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;15.6
+2020-06-07 23:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.5
+2020-06-07 23:08:09;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.8
+2020-06-07 23:08:10;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 23:08:10;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 23:08:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 23:18:13;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.8
+2020-06-07 23:18:13;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 23:18:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 23:18:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 23:28:15;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.8
+2020-06-07 23:28:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-07 23:28:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16
+2020-06-07 23:28:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 23:28:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-07 23:38:18;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.7
+2020-06-07 23:38:19;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-07 23:38:19;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16
+2020-06-07 23:38:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 23:38:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 23:48:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.7
+2020-06-07 23:48:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-07 23:48:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-07 23:48:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-07 23:48:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-07 23:50:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-07 23:50:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;15.6
+2020-06-07 23:58:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.7
+2020-06-07 23:58:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-07 23:58:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-07 23:58:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-07 23:58:26;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-08 00:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.5
+2020-06-08 00:08:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.6
+2020-06-08 00:08:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-08 00:08:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.3
+2020-06-08 00:08:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-08 00:08:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-08 00:18:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.6
+2020-06-08 00:18:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-08 00:18:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16
+2020-06-08 00:18:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-08 00:18:32;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-08 00:28:34;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.6
+2020-06-08 00:28:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-08 00:28:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16
+2020-06-08 00:28:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-08 00:28:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-08 00:38:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.6
+2020-06-08 00:38:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-08 00:38:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;15.9
+2020-06-08 00:38:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-08 00:38:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-08 00:48:40;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.5
+2020-06-08 00:48:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.5
+2020-06-08 00:48:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16
+2020-06-08 00:48:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-08 00:48:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-08 00:58:43;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.5
+2020-06-08 00:58:44;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-08 00:58:44;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-08 00:58:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-08 00:58:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-08 01:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;24.4
+2020-06-08 01:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;15.6
+2020-06-08 01:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.5
+2020-06-08 01:08:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.5
+2020-06-08 01:08:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-08 01:08:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16
+2020-06-08 01:08:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-08 01:08:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-08 01:18:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.4
+2020-06-08 01:18:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-08 01:18:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16
+2020-06-08 01:18:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-08 01:18:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-08 01:28:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.3
+2020-06-08 01:28:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-08 01:28:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.1
+2020-06-08 01:28:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-08 01:28:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-08 01:38:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.3
+2020-06-08 01:38:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-08 01:38:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16.2
+2020-06-08 01:38:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-08 01:38:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-08 01:48:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.3
+2020-06-08 01:49:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-08 01:49:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16
+2020-06-08 01:49:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.8
+2020-06-08 01:49:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;24.9
+2020-06-08 01:59:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;12;Nichtschwimmerbecken;Freibad;22.3
+2020-06-08 01:59:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;14;Planschbecken;Freibad;23.4
+2020-06-08 01:59:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;16
+2020-06-08 01:59:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;11;Schwimmbecken;Freibad;24.9
+2020-06-08 01:59:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;13;Sprungbecken;Freibad;25
+2020-06-08 02:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;18.5
