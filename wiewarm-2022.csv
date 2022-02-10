@@ -18325,4 +18325,448 @@ datum;badid;bad;adresse1;adresse2;ort;plz;kanton;beckenid;becken;typ;temperatur
 2022-02-09 01:37:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
 2022-02-09 01:47:44;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
 2022-02-09 01:57:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.5
+2022-02-09 02:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;6.7
+2022-02-09 02:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
 2022-02-09 02:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.6
+2022-02-09 02:07:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 02:18:01;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 02:28:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.5
+2022-02-09 02:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;3.3
+2022-02-09 02:30:07;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.1
+2022-02-09 02:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.3
+2022-02-09 02:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.4
+2022-02-09 02:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.8
+2022-02-09 02:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.6
+2022-02-09 02:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.6
+2022-02-09 02:30:23;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.2
+2022-02-09 02:30:25;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;3.4
+2022-02-09 02:30:28;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.1
+2022-02-09 02:30:31;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.9
+2022-02-09 02:38:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 02:48:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 02:58:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 03:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;6.7
+2022-02-09 03:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
+2022-02-09 03:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.6
+2022-02-09 03:08:24;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 03:18:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 03:28:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 03:30:02;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;3.1
+2022-02-09 03:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.1
+2022-02-09 03:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.2
+2022-02-09 03:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.2
+2022-02-09 03:30:14;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.8
+2022-02-09 03:30:17;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.7
+2022-02-09 03:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.7
+2022-02-09 03:30:22;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.1
+2022-02-09 03:30:24;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;3.4
+2022-02-09 03:30:27;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6
+2022-02-09 03:30:30;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.9
+2022-02-09 03:38:41;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 03:48:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 03:58:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 04:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;6.7
+2022-02-09 04:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
+2022-02-09 04:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.5
+2022-02-09 04:08:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 04:18:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 04:29:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 04:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;2.9
+2022-02-09 04:30:07;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5
+2022-02-09 04:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.2
+2022-02-09 04:30:13;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.1
+2022-02-09 04:30:16;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.8
+2022-02-09 04:30:19;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.8
+2022-02-09 04:30:21;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.7
+2022-02-09 04:30:24;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.1
+2022-02-09 04:30:26;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;3.4
+2022-02-09 04:30:30;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6
+2022-02-09 04:30:32;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.9
+2022-02-09 04:39:09;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 04:49:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 04:59:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 05:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;6.1
+2022-02-09 05:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
+2022-02-09 05:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.6
+2022-02-09 05:09:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.2
+2022-02-09 05:19:37;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.2
+2022-02-09 05:29:43;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 05:30:02;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;2.6
+2022-02-09 05:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;4.9
+2022-02-09 05:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.2
+2022-02-09 05:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2
+2022-02-09 05:30:14;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.8
+2022-02-09 05:30:17;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.9
+2022-02-09 05:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.6
+2022-02-09 05:30:22;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.1
+2022-02-09 05:30:24;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;3.4
+2022-02-09 05:30:27;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6
+2022-02-09 05:30:30;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.9
+2022-02-09 05:39:55;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 05:50:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 06:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;6.1
+2022-02-09 06:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.3
+2022-02-09 06:00:09;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.1
+2022-02-09 06:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.5
+2022-02-09 06:10:13;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.1
+2022-02-09 06:20:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.1
+2022-02-09 06:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;2.5
+2022-02-09 06:30:07;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;4.8
+2022-02-09 06:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.1
+2022-02-09 06:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.9
+2022-02-09 06:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.8
+2022-02-09 06:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5
+2022-02-09 06:30:21;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.6
+2022-02-09 06:30:23;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.1
+2022-02-09 06:30:25;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;3.4
+2022-02-09 06:30:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.1
+2022-02-09 06:30:29;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.9
+2022-02-09 06:30:32;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.8
+2022-02-09 06:40:30;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 06:50:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.2
+2022-02-09 07:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;6.1
+2022-02-09 07:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
+2022-02-09 07:00:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 07:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.5
+2022-02-09 07:10:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 07:20:46;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.1
+2022-02-09 07:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;2.4
+2022-02-09 07:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;4.8
+2022-02-09 07:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.1
+2022-02-09 07:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.9
+2022-02-09 07:30:14;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.8
+2022-02-09 07:30:17;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5.1
+2022-02-09 07:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.6
+2022-02-09 07:30:22;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.1
+2022-02-09 07:30:24;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;3.4
+2022-02-09 07:30:27;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.9
+2022-02-09 07:30:29;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.8
+2022-02-09 07:30:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.1
+2022-02-09 07:40:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.1
+2022-02-09 07:50:58;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5
+2022-02-09 08:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;6.1
+2022-02-09 08:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.3
+2022-02-09 08:01:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.1
+2022-02-09 08:05:04;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.5
+2022-02-09 08:11:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5
+2022-02-09 08:21:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.1
+2022-02-09 08:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;2.2
+2022-02-09 08:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;4.7
+2022-02-09 08:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
+2022-02-09 08:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.8
+2022-02-09 08:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.8
+2022-02-09 08:30:17;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5.1
+2022-02-09 08:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.7
+2022-02-09 08:30:22;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.1
+2022-02-09 08:30:24;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;3.4
+2022-02-09 08:30:27;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.9
+2022-02-09 08:30:30;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.8
+2022-02-09 08:31:15;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.1
+2022-02-09 08:41:19;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 08:51:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.2
+2022-02-09 09:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;5.6
+2022-02-09 09:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.2
+2022-02-09 09:01:29;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 09:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.5
+2022-02-09 09:11:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.2
+2022-02-09 09:21:38;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 09:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;2.2
+2022-02-09 09:30:07;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;4.7
+2022-02-09 09:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
+2022-02-09 09:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;1.9
+2022-02-09 09:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.9
+2022-02-09 09:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5.2
+2022-02-09 09:30:21;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.7
+2022-02-09 09:30:24;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.1
+2022-02-09 09:30:26;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;3.4
+2022-02-09 09:30:31;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;5.9
+2022-02-09 09:30:34;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.7
+2022-02-09 09:31:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 09:41:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 09:51:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.1
+2022-02-09 10:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;6.1
+2022-02-09 10:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;3.9
+2022-02-09 10:01:55;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.2
+2022-02-09 10:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.5
+2022-02-09 10:11:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 10:22:04;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 10:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;2.3
+2022-02-09 10:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;4.8
+2022-02-09 10:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
+2022-02-09 10:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2
+2022-02-09 10:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;6.1
+2022-02-09 10:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5.3
+2022-02-09 10:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.6
+2022-02-09 10:30:23;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.1
+2022-02-09 10:30:24;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;3.4
+2022-02-09 10:30:27;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.1
+2022-02-09 10:30:30;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.8
+2022-02-09 10:32:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 10:42:16;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.3
+2022-02-09 10:52:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.5
+2022-02-09 11:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;6.1
+2022-02-09 11:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.2
+2022-02-09 11:02:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 11:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.6
+2022-02-09 11:12:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.5
+2022-02-09 11:22:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.4
+2022-02-09 11:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;2.8
+2022-02-09 11:30:07;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.1
+2022-02-09 11:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5
+2022-02-09 11:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.3
+2022-02-09 11:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;6.3
+2022-02-09 11:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5.5
+2022-02-09 11:30:21;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.7
+2022-02-09 11:30:23;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.1
+2022-02-09 11:30:25;51;Rhone;;;Sion;1950;VS;136;Rhone;Fluss;3.4
+2022-02-09 11:30:28;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.2
+2022-02-09 11:30:31;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.8
+2022-02-09 11:32:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-09 11:42:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-09 11:52:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-09 12:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;6.7
+2022-02-09 12:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
+2022-02-09 12:02:48;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.6
+2022-02-09 12:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.7
+2022-02-09 12:12:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-09 12:22:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 12:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;3.3
+2022-02-09 12:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.4
+2022-02-09 12:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.1
+2022-02-09 12:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.8
+2022-02-09 12:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;6.4
+2022-02-09 12:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5.8
+2022-02-09 12:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.7
+2022-02-09 12:30:23;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.1
+2022-02-09 12:30:26;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.3
+2022-02-09 12:30:28;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.8
+2022-02-09 12:32:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 12:43:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 12:53:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.9
+2022-02-09 13:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;7.2
+2022-02-09 13:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.4
+2022-02-09 13:03:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 13:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.8
+2022-02-09 13:13:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.9
+2022-02-09 13:23:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.9
+2022-02-09 13:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;4.2
+2022-02-09 13:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.7
+2022-02-09 13:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.2
+2022-02-09 13:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.3
+2022-02-09 13:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;6.5
+2022-02-09 13:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;6
+2022-02-09 13:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.7
+2022-02-09 13:30:23;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0
+2022-02-09 13:30:26;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.4
+2022-02-09 13:30:29;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.9
+2022-02-09 13:33:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 13:43:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.9
+2022-02-09 13:53:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 14:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;7.8
+2022-02-09 14:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;4.6
+2022-02-09 14:03:23;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 14:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.9
+2022-02-09 14:13:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 14:23:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.2
+2022-02-09 14:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;5
+2022-02-09 14:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.1
+2022-02-09 14:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.3
+2022-02-09 14:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.8
+2022-02-09 14:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;6.5
+2022-02-09 14:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;6.1
+2022-02-09 14:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.7
+2022-02-09 14:30:22;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0
+2022-02-09 14:30:26;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.5
+2022-02-09 14:30:28;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;6
+2022-02-09 14:33:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.1
+2022-02-09 14:43:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.1
+2022-02-09 14:53:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.1
+2022-02-09 15:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;8.3
+2022-02-09 15:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
+2022-02-09 15:03:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 15:05:03;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.9
+2022-02-09 15:13:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.1
+2022-02-09 15:23:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 15:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;5.8
+2022-02-09 15:30:07;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.3
+2022-02-09 15:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.4
+2022-02-09 15:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;4.1
+2022-02-09 15:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;6.3
+2022-02-09 15:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;6.2
+2022-02-09 15:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.7
+2022-02-09 15:30:23;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.2
+2022-02-09 15:30:26;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.6
+2022-02-09 15:30:28;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;6
+2022-02-09 15:43:49;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.3
+2022-02-09 15:53:52;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.4
+2022-02-09 16:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;8.3
+2022-02-09 16:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
+2022-02-09 16:03:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.4
+2022-02-09 16:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.9
+2022-02-09 16:13:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.4
+2022-02-09 16:24:00;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.3
+2022-02-09 16:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;6.2
+2022-02-09 16:30:07;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.5
+2022-02-09 16:30:12;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.5
+2022-02-09 16:30:15;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;4.2
+2022-02-09 16:30:18;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;6.1
+2022-02-09 16:30:20;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;6
+2022-02-09 16:30:23;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.7
+2022-02-09 16:30:25;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.2
+2022-02-09 16:30:29;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.6
+2022-02-09 16:30:32;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;6
+2022-02-09 16:34:03;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.2
+2022-02-09 16:44:06;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.1
+2022-02-09 16:54:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6.1
+2022-02-09 17:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;8.9
+2022-02-09 17:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
+2022-02-09 17:04:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 17:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.9
+2022-02-09 17:14:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 17:24:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 17:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;6.1
+2022-02-09 17:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.4
+2022-02-09 17:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.5
+2022-02-09 17:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;4.1
+2022-02-09 17:30:14;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;6
+2022-02-09 17:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5.8
+2022-02-09 17:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.6
+2022-02-09 17:30:22;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0
+2022-02-09 17:30:25;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.6
+2022-02-09 17:30:28;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;6.1
+2022-02-09 17:34:19;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 17:44:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 17:50:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;8.9
+2022-02-09 17:50:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5.2
+2022-02-09 17:54:25;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.9
+2022-02-09 18:04:28;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;6
+2022-02-09 18:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.8
+2022-02-09 18:14:30;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 18:24:33;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 18:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;5.8
+2022-02-09 18:30:07;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6.2
+2022-02-09 18:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.5
+2022-02-09 18:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.9
+2022-02-09 18:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;6
+2022-02-09 18:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5.5
+2022-02-09 18:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.6
+2022-02-09 18:30:23;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.5
+2022-02-09 18:30:26;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.6
+2022-02-09 18:30:28;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;6.1
+2022-02-09 18:34:36;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 18:44:39;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 18:54:42;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 19:04:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.9
+2022-02-09 19:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.8
+2022-02-09 19:14:47;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-09 19:24:50;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 19:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;5.5
+2022-02-09 19:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;6
+2022-02-09 19:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.5
+2022-02-09 19:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.8
+2022-02-09 19:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.9
+2022-02-09 19:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5.3
+2022-02-09 19:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.6
+2022-02-09 19:30:23;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.6
+2022-02-09 19:30:26;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.5
+2022-02-09 19:30:28;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;6.1
+2022-02-09 19:34:53;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 19:44:56;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 19:54:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-09 20:05:02;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.8
+2022-02-09 20:05:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.9
+2022-02-09 20:25:07;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 20:30:02;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;5.1
+2022-02-09 20:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.9
+2022-02-09 20:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.4
+2022-02-09 20:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.6
+2022-02-09 20:30:14;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.9
+2022-02-09 20:30:17;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;5.1
+2022-02-09 20:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.6
+2022-02-09 20:30:22;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.6
+2022-02-09 20:30:25;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.4
+2022-02-09 20:30:28;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;6.1
+2022-02-09 20:35:10;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 20:55:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 21:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.8
+2022-02-09 21:05:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-09 21:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;4.8
+2022-02-09 21:30:07;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.8
+2022-02-09 21:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.4
+2022-02-09 21:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.4
+2022-02-09 21:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.9
+2022-02-09 21:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.9
+2022-02-09 21:30:21;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.6
+2022-02-09 21:30:23;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.5
+2022-02-09 21:30:26;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.4
+2022-02-09 21:30:29;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;6
+2022-02-09 22:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;7.8
+2022-02-09 22:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
+2022-02-09 22:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.8
+2022-02-09 22:05:27;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.5
+2022-02-09 22:25:31;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-09 22:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;4.6
+2022-02-09 22:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.7
+2022-02-09 22:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.4
+2022-02-09 22:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.3
+2022-02-09 22:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.9
+2022-02-09 22:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.7
+2022-02-09 22:30:21;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.5
+2022-02-09 22:30:24;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.5
+2022-02-09 22:30:27;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.4
+2022-02-09 22:30:30;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;6
+2022-02-09 22:45:35;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.5
+2022-02-09 23:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;7.8
+2022-02-09 23:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
+2022-02-09 23:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.8
+2022-02-09 23:05:40;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-09 23:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;4.4
+2022-02-09 23:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.6
+2022-02-09 23:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.3
+2022-02-09 23:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3.2
+2022-02-09 23:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.9
+2022-02-09 23:30:17;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.6
+2022-02-09 23:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.5
+2022-02-09 23:30:22;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.3
+2022-02-09 23:30:26;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.4
+2022-02-09 23:30:28;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.9
+2022-02-09 23:35:45;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.5
+2022-02-10 00:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;7.2
+2022-02-10 00:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
+2022-02-10 00:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.8
+2022-02-10 00:05:51;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-10 00:15:54;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.8
+2022-02-10 00:25:57;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.6
+2022-02-10 00:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;4.2
+2022-02-10 00:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.5
+2022-02-10 00:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.3
+2022-02-10 00:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;3
+2022-02-10 00:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.9
+2022-02-10 00:30:18;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.5
+2022-02-10 00:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.4
+2022-02-10 00:30:23;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;0.2
+2022-02-10 00:30:26;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.3
+2022-02-10 00:30:28;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.9
+2022-02-10 00:35:59;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.6
+2022-02-10 00:46:02;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-10 00:56:05;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-10 01:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;22;Strandbad Thun (50m);Freibad;7.2
+2022-02-10 01:00:00;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;23;Strandbad Thun (See);See;5
+2022-02-10 01:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.7
+2022-02-10 01:06:08;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.6
+2022-02-10 01:16:11;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-10 01:26:14;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.6
+2022-02-10 01:30:03;126;Gürbe;;;Belp;3174;BE;290;Gürbe;Fluss;3.9
+2022-02-10 01:30:06;17;Stadt Bern;;;Bern;3000;BE;52;Aare Marzili;Fluss;5.4
+2022-02-10 01:30:09;44;Aare;;;Brugg;5200;AG;129;Aare;Fluss;5.2
+2022-02-10 01:30:12;43;Emme;;;Emmenmatt;3543;BE;128;Emme;Fluss;2.8
+2022-02-10 01:30:15;47;Reuss;;;Luzern;6000;LU;132;Reuss;Fluss;5.9
+2022-02-10 01:30:17;48;Reuss;;;Mellingen;5507;AG;133;Reuss;Fluss;4.5
+2022-02-10 01:30:20;50;Rhein;;;Rheinfelden;4310;AG;135;Rhein;Fluss;5.4
+2022-02-10 01:30:22;125;Inn;;;S-chanf;7525;GR;289;Inn;Fluss;-0.1
+2022-02-10 01:30:26;7;Badebetriebe Thun;Strandbad Thun;Strandbadweg 10;Thun;3604;BE;98;Flussbad Schwäbis (Aare);Fluss;6.3
+2022-02-10 01:30:28;49;Rhein;;;Basel / Weil;4053;BS;134;Rhein;Fluss;5.8
+2022-02-10 01:36:17;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.6
+2022-02-10 01:46:20;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-10 01:56:22;5;Frei- und Seebad;Frei- und Seebad Spiez;Schachenstrasse 17;Spiez;3700;BE;15;Thunersee (Spiez);See;5.7
+2022-02-10 02:05:01;14;Zürichsee;;;Zürich;;ZH;43;Tiefenbrunnen;See;5.7
